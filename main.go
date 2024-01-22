@@ -15,17 +15,26 @@ import (
 func main() {
 	var update bool
 	flag.BoolVar(&update, "u", true, "Update cards before generating")
+
+	var branch string
+	flag.StringVar(&branch, "b", "develop", "Use specific branch (defaults to 'develop')")
+
 	flag.Parse()
+
+	log.Printf("Working with '%s' branch.", branch)
 
 	if update {
 		for countryCode, cardsURL := range cardsURLs {
 			log.Printf("Downloading %s...", countryCode)
-			err := downloadFile(cardsURL, sourceFile(countryCode))
+			url := fmt.Sprintf(cardsURL, branch)
+			err := downloadFile(url, sourceFile(countryCode))
 			if err != nil {
 				log.Fatal(err)
 			}
 		}
 	}
+
+	log.Println("Generating CSV...")
 
 	var content []byte
 	for countryCode, _ := range cardsURLs {
@@ -93,7 +102,7 @@ func downloadFile(url string, filepath string) error {
 // Abandoning idea for implementing different languages for now.
 // Revisit later, when dataset will have all the cards.
 var cardsURLs = map[string]string{
-	"en": "https://raw.githubusercontent.com/the-fab-cube/flesh-and-blood-cards/develop/json/english/card-flattened.json",
+	"en": "https://raw.githubusercontent.com/the-fab-cube/flesh-and-blood-cards/%s/json/english/card-flattened.json",
 	//"fr": "https://raw.githubusercontent.com/the-fab-cube/flesh-and-blood-cards/develop/json/french/card-flattened.json",
 	//"de": "https://raw.githubusercontent.com/the-fab-cube/flesh-and-blood-cards/develop/json/german/card-flattened.json",
 	//"it": "https://raw.githubusercontent.com/the-fab-cube/flesh-and-blood-cards/develop/json/italian/card-flattened.json",

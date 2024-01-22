@@ -23,20 +23,24 @@ FAB101.GF,FAB101,Achilles Accelerator,,GF,,P,,,0,https://storage.googleapis.com/
 EVO013.RF,EVO013,Adaptive Plating,,RF,,L,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO013.png,Mechanologist,Equipment
 EVO013.CF,EVO013,Adaptive Plating,,CF,,L,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO013.png,Mechanologist,Equipment
 FAB169.GF,FAB169,Adaptive Plating,,GF,,P,,,1,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB169.png,Mechanologist,Equipment
+HVY222.NF,HVY222,Adrenaline Rush,1,NF,,C,2,4,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY222.png,Generic,Action,Attack
 MON263.NF.1st,MON263,Adrenaline Rush,1,NF,1st,C,2,4,2,https://storage.googleapis.com/fabmaster/media/images/MON263.width-450.png,Generic,Action,Attack
 MON263.RF.1st,MON263,Adrenaline Rush,1,RF,1st,C,2,4,2,https://storage.googleapis.com/fabmaster/media/images/MON263.width-450.png,Generic,Action,Attack
 MON263.NF.Unl,MON263,Adrenaline Rush,1,NF,Unl,C,2,4,2,https://storage.googleapis.com/fabmaster/media/images/U-MON263.width-450.png,Generic,Action,Attack
 MON263.RF.Unl,MON263,Adrenaline Rush,1,RF,Unl,C,2,4,2,https://storage.googleapis.com/fabmaster/media/images/U-MON263.width-450.png,Generic,Action,Attack
+HVY223.NF,HVY223,Adrenaline Rush,2,NF,,C,2,3,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY223.png,Generic,Action,Attack
 MON264.NF.1st,MON264,Adrenaline Rush,2,NF,1st,C,2,3,2,https://storage.googleapis.com/fabmaster/media/images/MON264.width-450.png,Generic,Action,Attack
 MON264.RF.1st,MON264,Adrenaline Rush,2,RF,1st,C,2,3,2,https://storage.googleapis.com/fabmaster/media/images/MON264.width-450.png,Generic,Action,Attack
 MON264.NF.Unl,MON264,Adrenaline Rush,2,NF,Unl,C,2,3,2,https://storage.googleapis.com/fabmaster/media/images/U-MON264.width-450.png,Generic,Action,Attack
 MON264.RF.Unl,MON264,Adrenaline Rush,2,RF,Unl,C,2,3,2,https://storage.googleapis.com/fabmaster/media/images/U-MON264.width-450.png,Generic,Action,Attack
+HVY224.NF,HVY224,Adrenaline Rush,3,NF,,C,2,2,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY224.png,Generic,Action,Attack
 MON265.NF.1st,MON265,Adrenaline Rush,3,NF,1st,C,2,2,2,https://storage.googleapis.com/fabmaster/media/images/MON265.width-450.png,Generic,Action,Attack
 MON265.RF.1st,MON265,Adrenaline Rush,3,RF,1st,C,2,2,2,https://storage.googleapis.com/fabmaster/media/images/MON265.width-450.png,Generic,Action,Attack
 MON265.NF.Unl,MON265,Adrenaline Rush,3,NF,Unl,C,2,2,2,https://storage.googleapis.com/fabmaster/media/images/U-MON265.width-450.png,Generic,Action,Attack
 MON265.RF.Unl,MON265,Adrenaline Rush,3,RF,Unl,C,2,2,2,https://storage.googleapis.com/fabmaster/media/images/U-MON265.width-450.png,Generic,Action,Attack
 DTD007.NF,DTD007,"Aegis, Archangel of Protection",,NF,,M,,4,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD007_BACK.png,Light,Angel,Ally
 DTD007.CF,DTD007,"Aegis, Archangel of Protection",,CF,,V,,4,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD007_BACK_V2.png,Light,Angel,Ally
+HVY252.NF,HVY252,Aether Arc,3,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY252.png,Wizard,Action
 DRO003.NF,DRO003,Aether Ashwing,,NF,,T,,1,,https://storage.googleapis.com/fabmaster/media/images/DRO003.width-450.png,Draconic,Illusionist,Token,Dragon,Ally
 UPR042.NF,UPR042,Aether Ashwing,,NF,,T,,1,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR042.png,Draconic,Illusionist,Token,Dragon,Ally
 UPR042.CF,UPR042,Aether Ashwing,,CF,,C,,1,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR042_B.png,Draconic,Illusionist,Token,Dragon,Ally
@@ -127,7 +131,13 @@ CRU164.NF.1st,CRU164,Aetherize,3,NF,1st,M,1,,,https://storage.googleapis.com/fab
 CRU164.RF.1st,CRU164,Aetherize,3,RF,1st,M,1,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU164-RF.png,Wizard,Instant
 CRU164.NF.Unl,CRU164,Aetherize,3,NF,Unl,M,1,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU164.png,Wizard,Instant
 CRU164.RF.Unl,CRU164,Aetherize,3,RF,Unl,M,1,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU164.png,Wizard,Instant
-HVY240.NF,HVY240,Agility,,NF,,P,,,,,Generic,Token,Aura
+HVY115.NF,HVY115,Agile Engagement,1,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY115.png,Warrior,Attack Reaction
+HVY116.NF,HVY116,Agile Engagement,2,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY116.png,Warrior,Attack Reaction
+HVY117.NF,HVY117,Agile Engagement,3,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY117.png,Warrior,Attack Reaction
+HVY163.NF,HVY163,Agile Windup,1,NF,,C,3,7,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY163.png,Brute,Warrior,Action,Attack
+HVY164.NF,HVY164,Agile Windup,2,NF,,C,3,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY164.png,Brute,Warrior,Action,Attack
+HVY165.NF,HVY165,Agile Windup,3,NF,,C,3,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY165.png,Brute,Warrior,Action,Attack
+HVY240.NF,HVY240,Agility,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY240.png,Generic,Token,Aura
 DTD215.NF,DTD215,Alluring Inducement,2,NF,,M,2,2,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD215.png,Shapeshifter,Action,Attack
 DTD215.RF,DTD215,Alluring Inducement,2,RF,,M,2,2,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD215.png,Shapeshifter,Action,Attack
 FAB084.GF,FAB084,Alluvion Constellas,,GF,,P,,,0,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB084.png,Wizard,Equipment,Chest
@@ -198,6 +208,7 @@ WTR082.NF.Alpha,WTR082,Ancestral Empowerment,1,NF,Alpha,M,0,,3,https://storage.g
 WTR082.RF.Alpha,WTR082,Ancestral Empowerment,1,RF,Alpha,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR082.png,Ninja,Attack Reaction
 WTR082.NF.Unl,WTR082,Ancestral Empowerment,1,NF,Unl,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR082.png,Ninja,Attack Reaction
 WTR082.RF.Unl,WTR082,Ancestral Empowerment,1,RF,Unl,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR082.png,Ninja,Attack Reaction
+HVY247.NF,HVY247,Ancestral Harmony,3,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY247.png,Ninja,Action
 DTD032.NF,DTD032,Angelic Descent,1,NF,,C,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD032.png,Light,Illusionist,Instant
 DTD032.RF,DTD032,Angelic Descent,1,RF,,C,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD032.png,Light,Illusionist,Instant
 DTD033.NF,DTD033,Angelic Descent,2,NF,,C,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD033.png,Light,Illusionist,Instant
@@ -236,6 +247,7 @@ WTR040.NF.Unl,WTR040,Anothos,,NF,Unl,T,,4,,https://storage.googleapis.com/fabmas
 XXX006.NF,XXX006,Anothos,,NF,,P,,4,,https://storage.googleapis.com/fabmaster/cardfaces/promos/XXX006.png,Guardian,Weapon,Hammer,2H
 DTD196.NF,DTD196,Anthem of Spring,3,NF,,M,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD196.png,Earth,Action
 DTD196.RF,DTD196,Anthem of Spring,3,RF,,M,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD196.png,Earth,Action
+HVY008.RF,HVY008,Apex Bonebreaker,,RF,,L,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY008.png,Brute,Equipment,Arms
 FAB175.CF,FAB175,Apocalypse Automaton,1,CF,,P,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB175.png,Mechanologist,Action,Attack
 TCC011.NF,TCC011,Apocalypse Automaton,1,NF,,M,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC011.png,Mechanologist,Action,Attack
 DYN114.NF,DYN114,Arakni,,NF,,R,,,,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN114.png,Assassin,Hero,Young
@@ -314,6 +326,10 @@ DRO002.NF,DRO002,Ash,,NF,,T,,,,https://storage.googleapis.com/fabmaster/media/im
 UPR043.NF,UPR043,Ash,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR043.png,Draconic,Illusionist,Token,Ash
 UPR043.CF,UPR043,Ash,,CF,,C,,,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR043_B.png,Draconic,Illusionist,Token,Ash
 UPR043.CF,UPR043,Ash,,CF,,V,,,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR043_CF.png,Draconic,Illusionist,Token,Ash
+HVY026.NF,HVY026,Assault and Battery,1,NF,,C,3,7,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY026.png,Brute,Action,Attack
+HVY027.NF,HVY027,Assault and Battery,2,NF,,C,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY027.png,Brute,Action,Attack
+HVY028.NF,HVY028,Assault and Battery,3,NF,,C,3,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY028.png,Brute,Action,Attack
+HVY051.RF,HVY051,Aurum Aegis,,RF,,L,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY051.png,Guardian,Equipment,Off-Hand
 EVO098.NF,EVO098,Autosave Script,3,NF,,C,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO098.png,Mechanologist,Action,Item
 EVO098.RF,EVO098,Autosave Script,3,RF,,C,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO098.png,Mechanologist,Action,Item
 ELE128.NF.1st,ELE128,Autumn's Touch,1,NF,1st,C,3,7,3,https://storage.googleapis.com/fabmaster/media/images/ELE128.width-450.png,Earth,Action,Attack
@@ -407,6 +423,8 @@ EVR015.NF.1st,EVR015,Bad Beats,2,NF,1st,C,0,,3,https://storage.googleapis.com/fa
 EVR015.RF.1st,EVR015,Bad Beats,2,RF,1st,C,0,,3,https://storage.googleapis.com/fabmaster/media/images/EVR015.width-450.png,Brute,Action
 EVR016.NF.1st,EVR016,Bad Beats,3,NF,1st,C,0,,3,https://storage.googleapis.com/fabmaster/media/images/EVR016.width-450.png,Brute,Action
 EVR016.RF.1st,EVR016,Bad Beats,3,RF,1st,C,0,,3,https://storage.googleapis.com/fabmaster/media/images/EVR016.width-450.png,Brute,Action
+HVY195.RF,HVY195,Balance of Justice,,RF,,L,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY195.png,Generic,Equipment,Head
+HVY006.NF,HVY006,Ball Breaker,,NF,,R,,3,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY006.png,Brute,Weapon,Flail,1H
 ELE186.NF.1st,ELE186,Ball Lightning,1,NF,1st,C,0,3,0,https://storage.googleapis.com/fabmaster/media/images/ELE186.width-450.png,Lightning,Action,Attack
 ELE186.RF.1st,ELE186,Ball Lightning,1,RF,1st,C,0,3,0,https://storage.googleapis.com/fabmaster/media/images/ELE186.width-450.png,Lightning,Action,Attack
 ELE186.NF.Unl,ELE186,Ball Lightning,1,NF,Unl,C,0,3,0,https://storage.googleapis.com/fabmaster/media/images/U-ELE186.width-450.png,Lightning,Action,Attack
@@ -447,11 +465,14 @@ OUT101.NF,OUT101,Barbed Undertow,1,NF,,M,1,5,3,https://dhhim4ltzu1pj.cloudfront.
 OUT101.RF,OUT101,Barbed Undertow,1,RF,,M,1,5,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT101.width-450.png,Ranger,Action,Arrow,Attack
 EVR008.NF.1st,EVR008,Bare Fangs,1,NF,1st,C,2,6,,https://storage.googleapis.com/fabmaster/media/images/EVR008.width-450.png,Brute,Action,Attack
 EVR008.RF.1st,EVR008,Bare Fangs,1,RF,1st,C,2,6,,https://storage.googleapis.com/fabmaster/media/images/EVR008.width-450.png,Brute,Action,Attack
+HVY029.NF,HVY029,Bare Fangs,1,NF,,C,2,6,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY029.png,Brute,Action,Attack
 RVD011.NF,RVD011,Bare Fangs,1,NF,,C,2,6,,https://storage.googleapis.com/fabmaster/media/images/RVD011.width-450.png,Brute,Action,Attack
 EVR009.NF.1st,EVR009,Bare Fangs,2,NF,1st,C,2,5,,https://storage.googleapis.com/fabmaster/media/images/EVR009.width-450.png,Brute,Action,Attack
 EVR009.RF.1st,EVR009,Bare Fangs,2,RF,1st,C,2,5,,https://storage.googleapis.com/fabmaster/media/images/EVR009.width-450.png,Brute,Action,Attack
+HVY030.NF,HVY030,Bare Fangs,2,NF,,C,2,5,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY030.png,Brute,Action,Attack
 EVR010.NF.1st,EVR010,Bare Fangs,3,NF,1st,C,2,4,,https://storage.googleapis.com/fabmaster/media/images/EVR010.width-450.png,Brute,Action,Attack
 EVR010.RF.1st,EVR010,Bare Fangs,3,RF,1st,C,2,4,,https://storage.googleapis.com/fabmaster/media/images/EVR010.width-450.png,Brute,Action,Attack
+HVY031.NF,HVY031,Bare Fangs,3,NF,,C,2,4,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY031.png,Brute,Action,Attack
 1HP008.NF,1HP008,Barkbone Strapping,,NF,,C,,,1,https://storage.googleapis.com/fabmaster/media/images/1HP008.width-450.png,Brute,Equipment,Chest
 RNR005.NF,RNR005,Barkbone Strapping,,NF,,C,,,1,https://storage.googleapis.com/fabmaster/media/images/RNR5.width-450.png,Brute,Equipment,Chest
 WTR005.NF.Alpha,WTR005,Barkbone Strapping,,NF,Alpha,C,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR005.png,Brute,Equipment,Chest
@@ -505,6 +526,7 @@ WTR178.RF.Unl,WTR178,Barraging Brawnhide,3,RF,Unl,C,3,5,2,https://storage.google
 TCC029.NF,TCC029,Bastion of Duty,,NF,,R,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC029.png,Guardian,Equipment,Off-Hand
 DTD206.NF,DTD206,Bastion of Unity,,NF,,M,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD206.png,Warrior,Equipment,Off-Hand
 DTD206.CF,DTD206,Bastion of Unity,,CF,,M,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD206.png,Warrior,Equipment,Off-Hand
+HVY140.NF,HVY140,Battered Not Broken,1,NF,,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY140.png,Brute,Guardian,Instant
 EVR088.NF.1st,EVR088,Battering Bolt,1,NF,1st,M,2,6,3,https://storage.googleapis.com/fabmaster/media/images/EVR088.width-450.png,Ranger,Action,Arrow,Attack
 EVR088.RF.1st,EVR088,Battering Bolt,1,RF,1st,M,2,6,3,https://storage.googleapis.com/fabmaster/media/images/EVR088.width-450.png,Ranger,Action,Arrow,Attack
 BOL010.NF,BOL010,Battlefield Blitz,1,NF,,R,1,5,3,https://storage.googleapis.com/fabmaster/media/images/BOL010.width-450.png,Light,Warrior,Action,Attack
@@ -549,8 +571,11 @@ DTD058.NF,DTD058,Beaming Bravado,2,NF,,R,0,2,3,https://storage.googleapis.com/fa
 DTD058.RF,DTD058,Beaming Bravado,2,RF,,R,0,2,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD058.png,Light,Warrior,Action,Attack
 DTD059.NF,DTD059,Beaming Bravado,3,NF,,R,0,1,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD059.png,Light,Warrior,Action,Attack
 DTD059.RF,DTD059,Beaming Bravado,3,RF,,R,0,1,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD059.png,Light,Warrior,Action,Attack
+HVY017.NF,HVY017,Beast Mode,1,NF,,R,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY017.png,Brute,Action,Attack
 LGS146.RF,LGS146,Beast Mode,1,RF,,P,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS146.png,Brute,Action,Attack
 RVD009.NF,RVD009,Beast Mode,1,NF,,R,3,6,3,https://storage.googleapis.com/fabmaster/media/images/RVD009.width-450.png,Brute,Action,Attack
+HVY018.NF,HVY018,Beast Mode,2,NF,,R,3,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY018.png,Brute,Action,Attack
+HVY019.NF,HVY019,Beast Mode,3,NF,,R,3,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY019.png,Brute,Action,Attack
 1HP011.NF,1HP011,Beast Within,2,NF,,M,3,6,3,https://storage.googleapis.com/fabmaster/media/images/1HP011.width-450.png,Brute,Action,Attack
 CRU007.NF.1st,CRU007,Beast Within,2,NF,1st,M,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU007.png,Brute,Action,Attack
 CRU007.RF.1st,CRU007,Beast Within,2,RF,1st,M,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU007.png,Brute,Action,Attack
@@ -559,6 +584,7 @@ CRU007.RF.Unl,CRU007,Beast Within,2,RF,Unl,M,3,6,3,https://storage.googleapis.co
 DYN006.NF,DYN006,Beaten Trackers,,NF,,R,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN006.png,Brute,Equipment,Legs
 DYN006.RF,DYN006,Beaten Trackers,,RF,,R,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN006.png,Brute,Equipment,Legs
 DYN006.CF,DYN006,Beaten Trackers,,CF,,R,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN006.png,Brute,Equipment,Legs
+HVY100.NF,HVY100,Beckon Applause,,NF,,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY100.png,Warrior,Equipment,Arms
 DTD051.NF,DTD051,Beckoning Light,1,NF,,M,0,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD051.png,Light,Warrior,Action,Attack
 DTD051.RF,DTD051,Beckoning Light,1,RF,,M,0,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD051.png,Light,Warrior,Action,Attack
 1HP267.NF,1HP267,Become the Arknight,3,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/media/images/1HP267.width-450.png,Runeblade,Action
@@ -598,14 +624,27 @@ DTD188.NF,DTD188,Beseech the Demigon,2,NF,,C,0,,2,https://storage.googleapis.com
 DTD188.RF,DTD188,Beseech the Demigon,2,RF,,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD188.png,Shadow,Action
 DTD189.NF,DTD189,Beseech the Demigon,3,NF,,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD189.png,Shadow,Action
 DTD189.RF,DTD189,Beseech the Demigon,3,RF,,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD189.png,Shadow,Action
+HVY057.NF,HVY057,Bet Big,1,NF,,M,4,8,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY057.png,Guardian,Action,Attack
+HVY046.NF,HVY046,Betsy,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY046.png,Guardian,Hero,Young
+HVY046.CF,HVY046,Betsy,,CF,,V,,,,,Guardian,Hero,Young
+HVY046.CF,HVY046,Betsy,,CF,,V,,,,,Guardian,Hero,Young
+HVY045.NF,HVY045,"Betsy, Skin in the Game",,NF,,M,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY045.png,Guardian,Hero
+HVY045.CF,HVY045,"Betsy, Skin in the Game",,CF,,V,,,,,Guardian,Hero
+HVY045.CF,HVY045,"Betsy, Skin in the Game",,CF,,V,,,,,Guardian,Hero
 EVO177.NF,EVO177,Big Bertha,1,NF,,C,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO177.png,Mechanologist,Action,Attack
 EVO177.RF,EVO177,Big Bertha,1,RF,,C,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO177.png,Mechanologist,Action,Attack
 EVO178.NF,EVO178,Big Bertha,2,NF,,C,3,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO178.png,Mechanologist,Action,Attack
 EVO178.RF,EVO178,Big Bertha,2,RF,,C,3,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO178.png,Mechanologist,Action,Attack
 EVO179.NF,EVO179,Big Bertha,3,NF,,C,3,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO179.png,Mechanologist,Action,Attack
 EVO179.RF,EVO179,Big Bertha,3,RF,,C,3,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO179.png,Mechanologist,Action,Attack
+HVY083.NF,HVY083,Big Bop,1,NF,,C,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY083.png,Guardian,Action,Aura
+HVY084.NF,HVY084,Big Bop,2,NF,,C,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY084.png,Guardian,Action,Aura
+HVY085.NF,HVY085,Big Bop,3,NF,,C,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY085.png,Guardian,Action,Aura
 EVO153.NF,EVO153,Big Shot,1,NF,,R,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO153.png,Mechanologist,Action,Attack
 EVO153.RF,EVO153,Big Shot,1,RF,,R,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO153.png,Mechanologist,Action,Attack
+HVY086.NF,HVY086,Bigger Than Big,1,NF,,C,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY086.png,Guardian,Action,Aura
+HVY087.NF,HVY087,Bigger Than Big,2,NF,,C,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY087.png,Guardian,Action,Aura
+HVY088.NF,HVY088,Bigger Than Big,3,NF,,C,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY088.png,Guardian,Action,Aura
 DRO012.NF,DRO012,Billowing Mirage,1,NF,,C,1,3,3,https://storage.googleapis.com/fabmaster/media/images/DRO012.width-450.png,Draconic,Illusionist,Action,Attack
 UPR018.NF,UPR018,Billowing Mirage,1,NF,,C,1,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR018.png,Draconic,Illusionist,Action,Attack
 UPR018.RF,UPR018,Billowing Mirage,1,RF,,C,1,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR018.png,Draconic,Illusionist,Action,Attack
@@ -676,6 +715,7 @@ OUT141.RF,OUT141,Blade Cuff,,RF,,C,,,1,https://dhhim4ltzu1pj.cloudfront.net/medi
 OUT141.CF,OUT141,Blade Cuff,,CF,,C,,,1,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT141.width-450.png,Assassin,Ninja,Equipment,Arms
 DVR023.NF,DVR023,Blade Flash,3,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/media/images/DVR023.width-450.png,Generic,Attack Reaction
 LGS149.RF,LGS149,Blade Flash,3,RF,,P,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS149.png,Generic,Attack Reaction
+HVY101.NF,HVY101,Blade Flurry,1,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY101.png,Warrior,Attack Reaction
 EVR060.NF.1st,EVR060,Blade Runner,1,NF,1st,C,1,,3,https://storage.googleapis.com/fabmaster/media/images/EVR060.width-450.png,Warrior,Attack Reaction
 EVR060.RF.1st,EVR060,Blade Runner,1,RF,1st,C,1,,3,https://storage.googleapis.com/fabmaster/media/images/EVR060.width-450.png,Warrior,Attack Reaction
 EVR061.NF.1st,EVR061,Blade Runner,2,NF,1st,C,1,,3,https://storage.googleapis.com/fabmaster/media/images/EVR061.width-450.png,Warrior,Attack Reaction
@@ -867,6 +907,7 @@ UPR000.RF,UPR000,Blood of the Dracai,1,RF,,F,,,,https://storage.googleapis.com/f
 UPR000.CF,UPR000,Blood of the Dracai,1,CF,,F,,,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR000.png,Draconic,Resource,Gem
 EVR055.NF.1st,EVR055,Blood on Her Hands,2,NF,1st,M,0,,3,https://storage.googleapis.com/fabmaster/media/images/EVR055.width-450.png,Warrior,Action
 EVR055.RF.1st,EVR055,Blood on Her Hands,2,RF,1st,M,0,,3,https://storage.googleapis.com/fabmaster/media/images/EVR055.width-450.png,Warrior,Action
+HVY206.NF,HVY206,Bloodied Oval,,NF,,C,,,*,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY206.png,Generic,Equipment,Off-Hand
 ARA027.NF,ARA027,Bloodrot Pox,,NF,,C,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-OUT-ARA/EN/ARA027.png,Generic,Token,Aura
 AZL028.NF,AZL028,Bloodrot Pox,,NF,,C,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-OUT-AZL/EN/AZL028.png,Generic,Token,Aura
 FAB133.RF,FAB133,Bloodrot Pox,,RF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB133.png,Generic,Token,Aura
@@ -913,6 +954,7 @@ ELE064.NF.1st,ELE064,Blossoming Spellblade,1,NF,1st,M,2,6,3,https://storage.goog
 ELE064.RF.1st,ELE064,Blossoming Spellblade,1,RF,1st,M,2,6,3,https://storage.googleapis.com/fabmaster/media/images/ELE064.width-450.png,Elemental,Runeblade,Action,Attack
 ELE064.NF.Unl,ELE064,Blossoming Spellblade,1,NF,Unl,M,2,6,3,https://storage.googleapis.com/fabmaster/media/images/ELE064_Blossoming_Spellblade.width-10000.png,Elemental,Runeblade,Action,Attack
 ELE064.RF.Unl,ELE064,Blossoming Spellblade,1,RF,Unl,M,2,6,3,https://storage.googleapis.com/fabmaster/media/images/ELE064_Blossoming_Spellblade.width-10000.png,Elemental,Runeblade,Action,Attack
+HVY060.NF,HVY060,Boast,3,NF,,M,,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY060.png,Guardian,Block
 BOL011.NF,BOL011,Bolt of Courage,1,NF,,C,0,3,3,https://storage.googleapis.com/fabmaster/media/images/BOL011.width-450.png,Light,Warrior,Action,Attack
 MON042.NF.1st,MON042,Bolt of Courage,1,NF,1st,C,0,3,3,https://storage.googleapis.com/fabmaster/media/images/MON042.width-450.png,Light,Warrior,Action,Attack
 MON042.RF.1st,MON042,Bolt of Courage,1,RF,1st,C,0,3,3,https://storage.googleapis.com/fabmaster/media/images/MON042.width-450.png,Light,Warrior,Action,Attack
@@ -963,6 +1005,9 @@ WTR010.NF.Unl,WTR010,Bone Head Barrier,2,NF,Unl,S,1,,,https://storage.googleapis
 WTR010.RF.Unl,WTR010,Bone Head Barrier,2,RF,Unl,S,1,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR010.png,Brute,Instant
 FAB106.GF,FAB106,Bone Vizier,,GF,,P,,,1,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB106.png,Brute,Equipment,Head
 RVD003.RF,RVD003,Bone Vizier,,RF,,C,,,1,https://storage.googleapis.com/fabmaster/media/images/RVD003.width-450.png,Brute,Equipment,Head
+HVY041.NF,HVY041,Bonebreaker Bellow,1,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY041.png,Brute,Action
+HVY042.NF,HVY042,Bonebreaker Bellow,2,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY042.png,Brute,Action
+HVY043.NF,HVY043,Bonebreaker Bellow,3,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY043.png,Brute,Action
 FAB023.RF,FAB023,Boneyard Marauder,1,RF,,P,1,6,3,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB023.png,Shadow,Brute,Action,Attack
 LEV009.NF,LEV009,Boneyard Marauder,1,NF,,C,1,6,3,https://storage.googleapis.com/fabmaster/media/images/LEV009.width-450.png,Shadow,Brute,Action,Attack
 MON135.NF.1st,MON135,Boneyard Marauder,1,NF,1st,C,1,6,3,https://storage.googleapis.com/fabmaster/media/images/MON135.width-450.png,Shadow,Brute,Action,Attack
@@ -1293,6 +1338,7 @@ CRU188.RF.Unl,CRU188,Cash In,2,RF,Unl,R,4,,2,https://storage.googleapis.com/fabm
 JDG013.CF,JDG013,Cash In,2,CF,,P,4,,2,https://storage.googleapis.com/fabmaster/cardfaces/promos/JDG013.png,Generic,Action
 EVR158.NF.1st,EVR158,Cash Out,3,NF,1st,M,0,,2,https://storage.googleapis.com/fabmaster/media/images/EVR158.width-450.png,Generic,Action
 EVR158.RF.1st,EVR158,Cash Out,3,RF,1st,M,0,,2,https://storage.googleapis.com/fabmaster/media/images/EVR158.width-450.png,Generic,Action
+HVY014.NF,HVY014,Cast Bones,1,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY014.png,Brute,Action
 MON062.NF.1st,MON062,Celestial Cataclysm,2,NF,1st,M,0,7,3,https://storage.googleapis.com/fabmaster/media/images/MON062.width-450.png,Light,Action,Attack
 MON062.RF.1st,MON062,Celestial Cataclysm,2,RF,1st,M,0,7,3,https://storage.googleapis.com/fabmaster/media/images/MON062.width-450.png,Light,Action,Attack
 MON062.NF.Unl,MON062,Celestial Cataclysm,2,NF,Unl,M,0,7,3,https://storage.googleapis.com/fabmaster/media/images/U-MON062.width-450.png,Light,Action,Attack
@@ -1436,12 +1482,25 @@ CRU080.NF.1st,CRU080,Cintari Saber,,NF,1st,R,,2,,https://storage.googleapis.com/
 CRU080.CF.1st,CRU080,Cintari Saber,,CF,1st,R,,2,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU080.png,Warrior,Weapon,Sword,1H
 CRU080.NF.Unl,CRU080,Cintari Saber,,NF,Unl,R,,2,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU080.png,Warrior,Weapon,Sword,1H
 CRU080.RF.Unl,CRU080,Cintari Saber,,RF,Unl,R,,2,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU080.png,Warrior,Weapon,Sword,1H
+HVY094.NF,HVY094,Cintari Saber,,NF,,T,,2,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY094.png,Warrior,Weapon,Sword,1H
+FAB191.CF,FAB191,Cintari Sellsword,,CF,,P,,3,,,Warrior,Token,Mercenary,Ally
+FAB201.RF,FAB201,Cintari Sellsword,,RF,,P,,3,,,Warrior,Token,Mercenary,Ally
+HVY134.NF,HVY134,Cintari Sellsword,,NF,,T,,3,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY134.png,Warrior,Token,Mercenary,Ally
 TCC031.NF,TCC031,Civic Duty,,NF,,R,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC031.png,Guardian,Equipment,Chest
 TCC032.NF,TCC032,Civic Guide,,NF,,R,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC032.png,Guardian,Equipment,Arms
 TCC030.NF,TCC030,Civic Peak,,NF,,R,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC030.png,Guardian,Equipment,Head
 TCC033.NF,TCC033,Civic Steps,,NF,,R,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC033.png,Guardian,Equipment,Legs
 EVR182.NF.1st,EVR182,Clarity Potion,3,NF,1st,R,0,,,https://storage.googleapis.com/fabmaster/media/images/EVR182.width-450.png,Generic,Action,Item
 EVR182.CF.1st,EVR182,Clarity Potion,3,CF,1st,R,0,,,https://storage.googleapis.com/fabmaster/media/images/EVR182.width-450.png,Generic,Action,Item
+HVY157.NF,HVY157,Clash of Agility,1,NF,,R,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY157.png,Brute,Warrior,Action,Attack
+HVY158.NF,HVY158,Clash of Agility,2,NF,,R,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY158.png,Brute,Warrior,Action,Attack
+HVY159.NF,HVY159,Clash of Agility,3,NF,,R,2,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY159.png,Brute,Warrior,Action,Attack
+HVY137.NF,HVY137,Clash of Might,1,NF,,R,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY137.png,Brute,Guardian,Action,Attack
+HVY138.NF,HVY138,Clash of Might,2,NF,,R,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY138.png,Brute,Guardian,Action,Attack
+HVY139.NF,HVY139,Clash of Might,3,NF,,R,2,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY139.png,Brute,Guardian,Action,Attack
+HVY177.NF,HVY177,Clash of Vigor,1,NF,,R,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY177.png,Guardian,Warrior,Action,Attack
+HVY178.NF,HVY178,Clash of Vigor,2,NF,,R,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY178.png,Guardian,Warrior,Action,Attack
+HVY179.NF,HVY179,Clash of Vigor,3,NF,,R,2,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY179.png,Guardian,Warrior,Action,Attack
 DTD088.NF,DTD088,Cleansing Light,1,NF,,R,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD088.png,Light,Action
 DTD088.RF,DTD088,Cleansing Light,1,RF,,R,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD088.png,Light,Action
 DTD089.NF,DTD089,Cleansing Light,2,NF,,R,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD089.png,Light,Action
@@ -1478,9 +1537,10 @@ OUT159.CF,OUT159,Codex of Bloodrot,2,CF,,V,0,,2,https://dhhim4ltzu1pj.cloudfront
 OUT160.NF,OUT160,Codex of Frailty,2,NF,,M,0,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT160.width-450.png,Assassin,Ranger,Action
 OUT160.RF,OUT160,Codex of Frailty,2,RF,,M,0,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT160.width-450.png,Assassin,Ranger,Action
 OUT160.CF,OUT160,Codex of Frailty,2,CF,,V,0,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/EN_OUT_marvels_v1.0_FINAL_noopw2.width-450.png,Assassin,Ranger,Action
-OUT161.NF,OUT161,Codex of Inertia,2,NF,,M,0,0,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT161.width-450.png,Assassin,Ranger,Action
-OUT161.RF,OUT161,Codex of Inertia,2,RF,,M,0,0,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT161.width-450.png,Assassin,Ranger,Action
-OUT161.CF,OUT161,Codex of Inertia,2,CF,,V,0,0,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/EN_OUT_marvels_v1.0_FINAL_noopw3.width-450.png,Assassin,Ranger,Action
+OUT161.NF,OUT161,Codex of Inertia,2,NF,,M,0,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT161.width-450.png,Assassin,Ranger,Action
+OUT161.RF,OUT161,Codex of Inertia,2,RF,,M,0,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT161.width-450.png,Assassin,Ranger,Action
+OUT161.CF,OUT161,Codex of Inertia,2,CF,,V,0,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/EN_OUT_marvels_v1.0_FINAL_noopw3.width-450.png,Assassin,Ranger,Action
+HVY246.NF,HVY246,Coercive Tendency,3,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY246.png,Assassin,Attack Reaction
 EVO117.NF,EVO117,Cognition Field,1,NF,,R,,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO117.png,Mechanologist,Block
 EVO117.RF,EVO117,Cognition Field,1,RF,,R,,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO117.png,Mechanologist,Block
 EVO118.NF,EVO118,Cognition Field,2,NF,,R,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO118.png,Mechanologist,Block
@@ -1520,6 +1580,7 @@ ELE040.NF.Unl,ELE040,Cold Wave,3,NF,Unl,R,1,3,3,https://storage.googleapis.com/f
 ELE040.RF.Unl,ELE040,Cold Wave,3,RF,Unl,R,1,3,3,https://storage.googleapis.com/fabmaster/media/images/U-ELE040.width-450.png,Elemental,Ranger,Action,Arrow,Attack
 OUT103.NF,OUT103,Collapsing Trap,3,NF,,M,0,,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT103.width-350.png,Ranger,Defense Reaction,Trap
 OUT103.RF,OUT103,Collapsing Trap,3,RF,,M,0,,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT103.width-350.png,Ranger,Defense Reaction,Trap
+HVY062.NF,HVY062,Colossal Bearing,1,NF,,R,4,8,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY062.png,Guardian,Action,Attack
 TCC034.NF,TCC034,Colossal Bearing,1,NF,,R,4,8,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC034.png,Guardian,Action,Attack
 1HP202.NF,1HP202,Combustible Courier,1,NF,,C,2,4,3,https://storage.googleapis.com/fabmaster/media/images/1HP202.width-450.png,Mechanologist,Action,Attack
 CRU109.NF.1st,CRU109,Combustible Courier,1,NF,1st,C,2,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU109.png,Mechanologist,Action,Attack
@@ -1557,17 +1618,25 @@ ARC205.NF.Unl,ARC205,Come to Fight,3,NF,Unl,C,1,,3,https://storage.googleapis.co
 ARC205.RF.Unl,ARC205,Come to Fight,3,RF,Unl,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC205.png,Generic,Action
 OUT224.NF,OUT224,Come to Fight,3,NF,,C,1,,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT224.width-450.png,Generic,Action
 RVD024.NF,RVD024,Come to Fight,3,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/media/images/RVD024.width-450.png,Generic,Action
+HVY071.NF,HVY071,Command Respect,1,NF,,C,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY071.png,Guardian,Action,Attack
+HVY072.NF,HVY072,Command Respect,2,NF,,C,3,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY072.png,Guardian,Action,Attack
+HVY073.NF,HVY073,Command Respect,3,NF,,C,3,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY073.png,Guardian,Action,Attack
 1HP360.NF,1HP360,Command and Conquer,1,NF,,M,2,6,3,https://storage.googleapis.com/fabmaster/media/images/1HP360.width-450.png,Generic,Action,Attack
 ARC159.NF.1st,ARC159,Command and Conquer,1,NF,1st,M,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC159.png,Generic,Action,Attack
 ARC159.RF.1st,ARC159,Command and Conquer,1,RF,1st,M,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC159.png,Generic,Action,Attack
 ARC159.NF.Unl,ARC159,Command and Conquer,1,NF,Unl,M,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC159.png,Generic,Action,Attack
 ARC159.RF.Unl,ARC159,Command and Conquer,1,RF,Unl,M,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC159.png,Generic,Action,Attack
 DYN000.CF,DYN000,Command and Conquer,1,CF,,F,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN000.png,Generic,Action,Attack
+HVY104.NF,HVY104,Commanding Performance,1,NF,,M,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY104.png,Warrior,Action
 OUT143.NF,OUT143,Concealed Blade,3,NF,,M,0,,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT143.width-450.png,Assassin,Ninja,Attack Reaction
 OUT143.RF,OUT143,Concealed Blade,3,RF,,M,0,,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT143.width-450.png,Assassin,Ninja,Attack Reaction
+HVY074.NF,HVY074,Concuss,1,NF,,C,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY074.png,Guardian,Action,Attack
+HVY075.NF,HVY075,Concuss,2,NF,,C,3,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY075.png,Guardian,Action,Attack
+HVY076.NF,HVY076,Concuss,3,NF,,C,3,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY076.png,Guardian,Action,Attack
 UPR125.NF,UPR125,Conduit of Frostburn,,NF,,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR125.png,Ice,Wizard,Equipment,Arms
 UPR125.RF,UPR125,Conduit of Frostburn,,RF,,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR125.png,Ice,Wizard,Equipment,Arms
 UPR125.CF,UPR125,Conduit of Frostburn,,CF,,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR125.png,Ice,Wizard,Equipment,Arms
+HVY199.NF,HVY199,Confront Adversity,,NF,,C,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY199.png,Generic,Equipment,Chest
 DYN092.RF,DYN092,Construct Nitro Mechanoid,2,RF,,M,4,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN092.png,Mechanologist,Action,Construct
 DYN092.CF,DYN092,Construct Nitro Mechanoid,2,CF,,M,4,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN092.png,Mechanologist,Action,Construct
 DYN092.CF,DYN092,Construct Nitro Mechanoid,2,CF,,V,4,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN092_Marvel.png,Mechanologist,Action,Construct
@@ -1657,6 +1726,7 @@ CRU195.RF.1st,CRU195,Cracked Bauble,2,RF,1st,C,,,,https://storage.googleapis.com
 CRU195.RF.Unl,CRU195,Cracked Bauble,2,RF,Unl,C,,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU195.png,Generic,Resource
 ELE237.NF.1st,ELE237,Cracked Bauble,2,NF,1st,T,,,,https://storage.googleapis.com/fabmaster/media/images/ELE237.width-450.png,Generic,Resource
 ELE237.NF.Unl,ELE237,Cracked Bauble,2,NF,Unl,T,,,,https://storage.googleapis.com/fabmaster/media/images/U-ELE237.width-450.png,Generic,Resource
+HVY244.NF,HVY244,Cracked Bauble,2,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY244.png,Generic,Resource
 LGS083.CF,LGS083,Cracked Bauble,2,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS083.png,Generic,Resource
 LGS227.RF,LGS227,Cracked Bauble,2,RF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS227.png,Generic,Resource
 MON306.NF.1st,MON306,Cracked Bauble,2,NF,1st,T,,,,https://storage.googleapis.com/fabmaster/media/images/MON306.width-450.png,Generic,Resource
@@ -1813,6 +1883,9 @@ OUT202.NF,OUT202,Cut Down to Size,2,NF,,C,2,5,2,https://dhhim4ltzu1pj.cloudfront
 OUT202.RF,OUT202,Cut Down to Size,2,RF,,C,2,5,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT202.width-450.png,Generic,Action,Attack
 OUT203.NF,OUT203,Cut Down to Size,3,NF,,C,2,4,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT203.width-450.png,Generic,Action,Attack
 OUT203.RF,OUT203,Cut Down to Size,3,RF,,C,2,4,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT203.width-450.png,Generic,Action,Attack
+HVY106.NF,HVY106,Cut the Deck,1,NF,,R,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY106.png,Warrior,Attack Reaction
+HVY107.NF,HVY107,Cut the Deck,2,NF,,R,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY107.png,Warrior,Attack Reaction
+HVY108.NF,HVY108,Cut the Deck,3,NF,,R,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY108.png,Warrior,Attack Reaction
 DYN148.NF,DYN148,Cut to the Chase,1,NF,,C,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN148.png,Assassin,Attack Reaction
 DYN148.RF,DYN148,Cut to the Chase,1,RF,,C,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN148.png,Assassin,Attack Reaction
 LGS113.RF,LGS113,Cut to the Chase,1,RF,,P,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS113.png,Assassin,Attack Reaction
@@ -1956,6 +2029,7 @@ DTD147.NF,DTD147,Deathly Wail,2,NF,,R,3,5,3,https://storage.googleapis.com/fabma
 DTD147.RF,DTD147,Deathly Wail,2,RF,,R,3,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD147.png,Shadow,Runeblade,Action,Attack
 DTD148.NF,DTD148,Deathly Wail,3,NF,,R,3,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD148.png,Shadow,Runeblade,Action,Attack
 DTD148.RF,DTD148,Deathly Wail,3,RF,,R,3,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD148.png,Shadow,Runeblade,Action,Attack
+HVY000.CF,HVY000,Deathmatch Arena,,CF,,F,0,,,,Generic,Action,Landmark
 1HP076.NF,1HP076,Debilitate,1,NF,,C,4,8,3,https://storage.googleapis.com/fabmaster/media/images/1HP076.width-450.png,Guardian,Action,Attack
 BVO010.NF,BVO010,Debilitate,1,NF,,C,4,8,3,https://storage.googleapis.com/fabmaster/media/images/BVO10.width-450.png,Guardian,Action,Attack
 WTR066.NF.Alpha,WTR066,Debilitate,1,NF,Alpha,C,4,8,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR066.png,Guardian,Action,Attack
@@ -2080,6 +2154,7 @@ ARC035.NF.Unl,ARC035,Dissipation Shield,2,NF,Unl,C,2,,,https://storage.googleapi
 ARC035.RF.Unl,ARC035,Dissipation Shield,2,RF,Unl,C,2,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC035.png,Mechanologist,Action,Item
 EVR069.NF.1st,EVR069,Dissolution Sphere,2,NF,1st,M,2,,,https://storage.googleapis.com/fabmaster/media/images/EVR069.width-450.png,Mechanologist,Action,Item
 EVR069.RF.1st,EVR069,Dissolution Sphere,2,RF,1st,M,2,,,https://storage.googleapis.com/fabmaster/media/images/EVR069.width-450.png,Mechanologist,Action,Item
+HVY253.NF,HVY253,Dissolve Reality,2,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY253.png,Illusionist,Action
 EVO087.NF,EVO087,Dissolving Shield,1,NF,,C,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO087.png,Mechanologist,Action,Item
 EVO087.RF,EVO087,Dissolving Shield,1,RF,,C,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO087.png,Mechanologist,Action,Item
 EVO088.NF,EVO088,Dissolving Shield,2,NF,,C,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO088.png,Mechanologist,Action,Item
@@ -2115,13 +2190,20 @@ WTR113.NF.Alpha,WTR113,Dorinthea Ironsong,,NF,Alpha,T,,,,https://storage.googlea
 WTR113.NF.Unl,WTR113,Dorinthea Ironsong,,NF,Unl,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR113.png,Warrior,Hero
 DVR001.CF,DVR001,"Dorinthea, Quicksilver Prodigy",,CF,,M,,,,https://storage.googleapis.com/fabmaster/media/images/DVR001.width-450.png,Warrior,Hero,Young
 FAB194.RF,FAB194,Double Down,1,RF,,P,2,,3,,Guardian,Warrior,Action
+HVY176.NF,HVY176,Double Down,1,NF,,M,2,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY176.png,Guardian,Warrior,Action
 UPR160.NF,UPR160,Double Strike,1,NF,,M,0,1,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR160.png,Ninja,Action,Attack
 UPR160.RF,UPR160,Double Strike,1,RF,,M,0,1,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR160.png,Ninja,Action,Attack
+HVY213.NF,HVY213,Down But Not Out,1,NF,,R,3,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY213.png,Generic,Action,Attack
+HVY214.NF,HVY214,Down But Not Out,2,NF,,R,3,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY214.png,Generic,Action,Attack
+HVY215.NF,HVY215,Down But Not Out,3,NF,,R,3,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY215.png,Generic,Action,Attack
 OUT184.NF,OUT184,Down and Dirty,1,NF,,M,2,6,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT184.width-450.png,Generic,Action,Attack
 OUT184.RF,OUT184,Down and Dirty,1,RF,,M,2,6,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT184.width-450.png,Generic,Action,Attack
 UPR006.NF,UPR006,Dracona Optimai,,NF,,M,,6,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR006_A_Back.png,Draconic,Illusionist,Dragon,Ally
 UPR006.CF,UPR006,Dracona Optimai,,CF,,V,,6,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR006_B_Back.png,Draconic,Illusionist,Dragon,Ally
 UPR225.NF,UPR225,Dragons of Legend,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR225.png,Invocation,Placeholder Card
+HVY121.NF,HVY121,Draw Swords,1,NF,,C,3,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY121.png,Warrior,Action
+HVY122.NF,HVY122,Draw Swords,2,NF,,C,3,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY122.png,Warrior,Action
+HVY123.NF,HVY123,Draw Swords,3,NF,,C,3,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY123.png,Warrior,Action
 ARC097.NF.1st,ARC097,Drawn to the Dark Dimension,1,NF,1st,C,2,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC097.png,Runeblade,Action,Attack
 ARC097.RF.1st,ARC097,Drawn to the Dark Dimension,1,RF,1st,C,2,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC097.png,Runeblade,Action,Attack
 ARC097.NF.Unl,ARC097,Drawn to the Dark Dimension,1,NF,Unl,C,2,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC097.png,Runeblade,Action,Attack
@@ -2198,6 +2280,7 @@ HER059.CF,HER059,"Dromai, Ash Artist",,CF,,P,,,,https://storage.googleapis.com/f
 HER066.RF,HER066,"Dromai, Ash Artist",,RF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER066.png,Draconic,Illusionist,Hero
 UPR001.NF,UPR001,"Dromai, Ash Artist",,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR001.png,Draconic,Illusionist,Hero
 WIN018.GF,WIN018,"Dromai, Ash Artist",,GF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/WIN018.png,Draconic,Illusionist,Hero
+JDG023.CF,JDG023,Drone of Brutality,1,CF,,P,2,6,2,,Generic,Action,Attack
 RNR015.NF,RNR015,Drone of Brutality,1,NF,,R,2,6,2,https://storage.googleapis.com/fabmaster/media/images/RNR15.width-450.png,Generic,Action,Attack
 WTR164.NF.Alpha,WTR164,Drone of Brutality,1,NF,Alpha,R,2,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR164.png,Generic,Action,Attack
 WTR164.RF.Alpha,WTR164,Drone of Brutality,1,RF,Alpha,R,2,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR164.png,Generic,Action,Attack
@@ -2312,6 +2395,9 @@ MON218.NF.1st,MON218,Eclipse Existence,3,NF,1st,C,0,,,https://storage.googleapis
 MON218.RF.1st,MON218,Eclipse Existence,3,RF,1st,C,0,,,https://storage.googleapis.com/fabmaster/media/images/MON218.width-450.png,Shadow,Instant
 MON218.NF.Unl,MON218,Eclipse Existence,3,NF,Unl,C,0,,,https://storage.googleapis.com/fabmaster/media/images/U-MON218.width-450.png,Shadow,Instant
 MON218.RF.Unl,MON218,Eclipse Existence,3,RF,Unl,C,0,,,https://storage.googleapis.com/fabmaster/media/images/U-MON218.width-450.png,Shadow,Instant
+HVY124.NF,HVY124,Edge Ahead,1,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY124.png,Warrior,Action
+HVY125.NF,HVY125,Edge Ahead,2,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY125.png,Warrior,Action
+HVY126.NF,HVY126,Edge Ahead,3,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY126.png,Warrior,Action
 1HP090.NF,1HP090,Edge of Autumn,,NF,,R,,1,,https://storage.googleapis.com/fabmaster/media/images/1HP090.width-450.png,Ninja,Weapon,Sword,2H
 CRU050.NF.1st,CRU050,Edge of Autumn,,NF,1st,R,,1,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU050.png,Ninja,Weapon,Sword,2H
 CRU050.CF.1st,CRU050,Edge of Autumn,,CF,1st,R,,1,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU050.png,Ninja,Weapon,Sword,2H
@@ -2384,6 +2470,7 @@ ELE208.NF.Unl,ELE208,Embolden,3,NF,Unl,R,4,,3,https://storage.googleapis.com/fab
 ELE208.RF.Unl,ELE208,Embolden,3,RF,Unl,R,4,,3,https://storage.googleapis.com/fabmaster/media/images/U-ELE208.width-450.png,Guardian,Action,Aura
 EVO240.NF,EVO240,Emboldened Blade,3,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO240.png,Warrior,Action
 EVO240.RF,EVO240,Emboldened Blade,3,RF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO240.png,Warrior,Action
+HVY200.NF,HVY200,Embrace Adversity,,NF,,C,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY200.png,Generic,Equipment,Arms
 ELE025.NF.1st,ELE025,Emerging Avalanche,1,NF,1st,C,2,,3,https://storage.googleapis.com/fabmaster/media/images/ELE025.width-450.png,Elemental,Guardian,Action,Aura
 ELE025.RF.1st,ELE025,Emerging Avalanche,1,RF,1st,C,2,,3,https://storage.googleapis.com/fabmaster/media/images/ELE025.width-450.png,Elemental,Guardian,Action,Aura
 ELE025.NF.Unl,ELE025,Emerging Avalanche,1,NF,Unl,C,2,,3,https://storage.googleapis.com/fabmaster/media/images/U-ELE025.width-450.png,Elemental,Guardian,Action,Aura
@@ -2492,6 +2579,9 @@ WTR170.NF.Alpha,WTR170,Energy Potion,3,NF,Alpha,R,0,,,https://storage.googleapis
 WTR170.RF.Alpha,WTR170,Energy Potion,3,RF,Alpha,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR170.png,Generic,Action,Item
 WTR170.NF.Unl,WTR170,Energy Potion,3,NF,Unl,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR170.png,Generic,Action,Item
 WTR170.RF.Unl,WTR170,Energy Potion,3,RF,Unl,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR170.png,Generic,Action,Item
+HVY127.NF,HVY127,Engaged Swiftblade,1,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY127.png,Warrior,Action
+HVY128.NF,HVY128,Engaged Swiftblade,2,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY128.png,Warrior,Action
+HVY129.NF,HVY129,Engaged Swiftblade,3,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY129.png,Warrior,Action
 UPR051.NF,UPR051,Engulfing Flamewave,1,NF,,R,2,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR051.png,Draconic,Ninja,Action,Attack
 UPR051.RF,UPR051,Engulfing Flamewave,1,RF,,R,2,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR051.png,Draconic,Ninja,Action,Attack
 UPR052.NF,UPR052,Engulfing Flamewave,2,NF,,R,2,4,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR052.png,Draconic,Ninja,Action,Attack
@@ -2641,6 +2731,7 @@ EVO032.NF,EVO032,Evo Face Breaker,1,NF,,M,0,,0,https://storage.googleapis.com/fa
 EVO032.CF,EVO032,Evo Face Breaker,1,CF,,V,0,,0,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO032_V2.png,Mechanologist,Instant,Equipment,Evo,Arms
 EVO033.NF,EVO033,Evo Mach Breaker,1,NF,,M,0,,0,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO033.png,Mechanologist,Instant,Equipment,Evo,Legs
 EVO033.CF,EVO033,Evo Mach Breaker,1,CF,,V,0,,0,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO033_V2.png,Mechanologist,Instant,Equipment,Evo,Legs
+HVY248.NF,HVY248,Evo Magneto,3,NF,,M,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY248.png,Mechanologist,Action,Equipment,Evo,Arms
 EVO041.CF,EVO041,Evo Rapid Fire,3,CF,,R,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO041.png,Mechanologist,Action,Equipment,Evo,Legs
 TCC010.NF,TCC010,Evo Rapid Fire,3,NF,,R,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC010.png,Mechanologist,Action,Equipment,Evo,Legs
 EVO040.CF,EVO040,Evo Scatter Shot,3,CF,,R,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO040.png,Mechanologist,Action,Equipment,Evo,Arms
@@ -2722,6 +2813,7 @@ LSS010.CF,LSS010,Fabric of Blossoms,3,CF,,P,0,,2,https://storage.googleapis.com/
 LSS011.CF,LSS011,Fabric of Spring,2,CF,,P,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/promos/LSS011.png,Generic,Action,Construct
 EVO146.NF,EVO146,Fabricate,1,NF,,M,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO146.png,Mechanologist,Instant
 EVO146.RF,EVO146,Fabricate,1,RF,,M,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO146.png,Mechanologist,Instant
+HVY198.NF,HVY198,Face Adversity,,NF,,C,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY198.png,Generic,Equipment,Head
 FAI001.RF,FAI001,Fai,,RF,,R,,,,,Draconic,Ninja,Hero,Young
 HER061.CF,HER061,Fai,,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER061.png,Draconic,Ninja,Hero,Young
 UPR045.NF,UPR045,Fai,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR045.png,Draconic,Ninja,Hero,Young
@@ -2739,6 +2831,9 @@ RIP024.NF,RIP024,Falcon Wing,2,NF,,C,0,2,3,https://storage.googleapis.com/fabmas
 AZL023.NF,AZL023,Falcon Wing,3,NF,,C,0,1,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-OUT-AZL/EN/AZL023.png,Ranger,Action,Arrow,Attack
 OUT117.NF,OUT117,Falcon Wing,3,NF,,C,0,1,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT117.width-450.png,Ranger,Action,Arrow,Attack
 OUT117.RF,OUT117,Falcon Wing,3,RF,,C,0,1,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT117.width-450.png,Ranger,Action,Arrow,Attack
+HVY109.NF,HVY109,Fatal Engagement,1,NF,,R,2,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY109.png,Warrior,Attack Reaction
+HVY110.NF,HVY110,Fatal Engagement,2,NF,,R,2,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY110.png,Warrior,Attack Reaction
+HVY111.NF,HVY111,Fatal Engagement,3,NF,,R,2,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY111.png,Warrior,Attack Reaction
 1HP405.NF,1HP405,Fate Foreseen,1,NF,,C,0,,4,https://storage.googleapis.com/fabmaster/media/images/1HP405.width-450.png,Generic,Defense Reaction
 ARC200.NF.1st,ARC200,Fate Foreseen,1,NF,1st,C,0,,4,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC200.png,Generic,Defense Reaction
 ARC200.RF.1st,ARC200,Fate Foreseen,1,RF,1st,C,0,,4,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC200.png,Generic,Defense Reaction
@@ -2881,6 +2976,7 @@ ELE092.NF.1st,ELE092,Flashfreeze,1,NF,1st,M,1,,2,https://storage.googleapis.com/
 ELE092.RF.1st,ELE092,Flashfreeze,1,RF,1st,M,1,,2,https://storage.googleapis.com/fabmaster/media/images/ELE092.width-450.png,Elemental,Action
 ELE092.NF.Unl,ELE092,Flashfreeze,1,NF,Unl,M,1,,2,https://storage.googleapis.com/fabmaster/media/images/U-ELE092.width-450.png,Elemental,Action
 ELE092.RF.Unl,ELE092,Flashfreeze,1,RF,Unl,M,1,,2,https://storage.googleapis.com/fabmaster/media/images/U-ELE092.width-450.png,Elemental,Action
+HVY155.NF,HVY155,Flat Trackers,,NF,,C,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY155.png,Brute,Warrior,Equipment,Legs
 DYN136.NF,DYN136,Fleece the Frail,1,NF,,C,0,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN136.png,Assassin,Action,Attack
 DYN136.RF,DYN136,Fleece the Frail,1,RF,,C,0,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN136.png,Assassin,Action,Attack
 DYN137.NF,DYN137,Fleece the Frail,2,NF,,C,0,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN137.png,Assassin,Action,Attack
@@ -3184,6 +3280,8 @@ LGS203.RF,LGS203,Gas Up,2,RF,,P,1,,2,https://storage.googleapis.com/fabmaster/ca
 EVO224.NF,EVO224,Gas Up,3,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO224.png,Mechanologist,Action
 EVO224.RF,EVO224,Gas Up,3,RF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO224.png,Mechanologist,Action
 LGS204.RF,LGS204,Gas Up,3,RF,,P,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS204.png,Mechanologist,Action
+HVY135.NF,HVY135,Gauntlet of Might,,NF,,C,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY135.png,Brute,Guardian,Equipment,Arms
+HVY053.NF,HVY053,Gauntlets of Iron Will,,NF,,L,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY053.png,Guardian,Equipment,Arms
 JDG005.CF,JDG005,Gavel of Natural Order,,CF,,P,,2,,https://storage.googleapis.com/fabmaster/cardfaces/promos/JDG005.png,Adjudicator,Weapon,Hammer,1H
 CRU163.NF.1st,CRU163,Gaze the Ages,3,NF,1st,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU163.png,Wizard,Action
 CRU163.RF.1st,CRU163,Gaze the Ages,3,RF,1st,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU163.png,Wizard,Action
@@ -3265,10 +3363,15 @@ MON071.RF.1st,MON071,Glisten,3,RF,1st,R,2,,,https://storage.googleapis.com/fabma
 MON071.NF.Unl,MON071,Glisten,3,NF,Unl,R,2,,,https://storage.googleapis.com/fabmaster/media/images/U-MON071.width-450.png,Light,Instant
 MON071.RF.Unl,MON071,Glisten,3,RF,Unl,R,2,,,https://storage.googleapis.com/fabmaster/media/images/U-MON071.width-450.png,Light,Instant
 DVR008.NF,DVR008,Glistening Steelblade,2,NF,,M,1,,3,https://storage.googleapis.com/fabmaster/media/images/DVR008.width-450.png,Warrior,Action
+HVY196.NF,HVY196,Glory Seeker,,NF,,C,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY196.png,Generic,Equipment,Head
 LSS002.RF,LSS002,Go Bananas,2,RF,,P,0,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/LSS002.png,Generic,Instant
+HVY133.NF,HVY133,Goblet of Bloodrun Wine,3,NF,,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY133.png,Warrior,Action
 DYN243.NF,DYN243,Gold,,NF,,C,,,,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN243.png,Generic,Token,Item
 DYN243.RF,DYN243,Gold,,RF,,C,,,,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN243.png,Generic,Token,Item
 FAB121.CF,FAB121,Gold,,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB121.png,Generic,Token,Item
+HVY243.NF,HVY243,Gold,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY243.png,Generic,Token,Item
+HVY054.NF,HVY054,Golden Glare,,NF,,R,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY054.png,Guardian,Equipment,Head
+LGS233.RF,LGS233,Golden Glare,,RF,,P,,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/LGS233.width-10000.format-webp.webp,Guardian,Equipment,Head
 1HP352.NF,1HP352,Goliath Gauntlet,,NF,,C,,,0,https://storage.googleapis.com/fabmaster/media/images/1HP352.width-450.png,Generic,Equipment,Arms
 BVO006.NF,BVO006,Goliath Gauntlet,,NF,,C,,,0,https://storage.googleapis.com/fabmaster/media/images/BVO6.width-450.png,Generic,Equipment,Arms
 FAB064.GF,FAB064,Goliath Gauntlet,,GF,,P,,,0,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB064.png,Generic,Equipment,Arms
@@ -3279,6 +3382,9 @@ WTR153.CF.Alpha,WTR153,Goliath Gauntlet,,CF,Alpha,C,,,0,https://storage.googleap
 WTR153.NF.Unl,WTR153,Goliath Gauntlet,,NF,Unl,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR153.png,Generic,Equipment,Arms
 WTR153.RF.Unl,WTR153,Goliath Gauntlet,,RF,Unl,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR153.png,Generic,Equipment,Arms
 LSS006.RF,LSS006,Good Deeds Don't Go Unnoticed,2,RF,,P,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/promos/LSS006.png,Generic,Action,Aura
+HVY055.NF,HVY055,Good Time Chapeau,,NF,,R,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY055.png,Guardian,Equipment,Head
+LGS234.RF,LGS234,Good Time Chapeau,,RF,,P,,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/LGS234.width-10000.format-webp.webp,Guardian,Equipment,Head
+LGS248.CF,LGS248,Good Time Chapeau,,CF,,P,,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/LGS248.width-10000.format-webp.webp,Guardian,Equipment,Head
 OUT186.NF,OUT186,Gore Belching,1,NF,,M,0,7,,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT186.width-450.png,Generic,Action,Attack
 OUT186.RF,OUT186,Gore Belching,1,RF,,M,0,7,,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT186.width-450.png,Generic,Action,Attack
 1HP364.NF,1HP364,Gorganian Tome,,NF,,M,0,,,https://storage.googleapis.com/fabmaster/media/images/1HP364.width-450.png,Generic,Action
@@ -3286,7 +3392,9 @@ CRU181.NF.1st,CRU181,Gorganian Tome,,NF,1st,M,0,,,https://storage.googleapis.com
 CRU181.RF.1st,CRU181,Gorganian Tome,,RF,1st,M,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU181.png,Generic,Action
 CRU181.NF.Unl,CRU181,Gorganian Tome,,NF,Unl,M,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU181.png,Generic,Action
 CRU181.RF.Unl,CRU181,Gorganian Tome,,RF,Unl,M,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU181.png,Generic,Action
+HVY097.RF,HVY097,Grains of Bloodspill,,RF,,L,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY097.png,Warrior,Equipment,Chest
 EVR000.CF.1st,EVR000,Grandeur of Valahai,3,CF,1st,F,,,,https://storage.googleapis.com/fabmaster/media/images/EVR000.width-450.png,Guardian,Resource,Gem
+HVY205.NF,HVY205,Grandstand Legplates,,NF,,C,,,*,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY205.png,Generic,Equipment,Legs
 DTD167.NF,DTD167,Grasp of Darkness,,NF,,C,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD167.png,Shadow,Equipment,Arms
 DTD167.CF,DTD167,Grasp of Darkness,,CF,,C,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD167.png,Shadow,Equipment,Arms
 1HP262.NF,1HP262,Grasp of the Arknight,,NF,,L,,,2,https://storage.googleapis.com/fabmaster/media/images/1HP262.width-450.png,Runeblade,Equipment,Arms
@@ -3306,6 +3414,7 @@ MON146.NF.1st,MON146,Graveling Growl,3,NF,1st,C,1,5,3,https://storage.googleapis
 MON146.RF.1st,MON146,Graveling Growl,3,RF,1st,C,1,5,3,https://storage.googleapis.com/fabmaster/media/images/MON146.width-450.png,Shadow,Brute,Action,Attack
 MON146.NF.Unl,MON146,Graveling Growl,3,NF,Unl,C,1,5,3,https://storage.googleapis.com/fabmaster/media/images/U-MON146.width-450.png,Shadow,Brute,Action,Attack
 MON146.RF.Unl,MON146,Graveling Growl,3,RF,Unl,C,1,5,3,https://storage.googleapis.com/fabmaster/media/images/U-MON146.width-450.png,Shadow,Brute,Action,Attack
+HVY245.NF,HVY245,Graven Call,,NF,,M,,1,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY245.png,Assassin,Weapon,Dagger,1H
 MON000.CF.1st,MON000,Great Library of Solana,,CF,1st,F,2,,,https://storage.googleapis.com/fabmaster/media/images/MON000.width-450.png,Light,Action,Landmark
 MON000.RF.Unl,MON000,Great Library of Solana,,RF,Unl,F,2,,,https://storage.googleapis.com/fabmaster/media/images/U-MON000.width-450.png,Light,Action,Landmark
 DTD175.NF,DTD175,Grim Feast,1,NF,,R,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD175.png,Shadow,Action
@@ -3429,6 +3538,7 @@ ARC059.NF.1st,ARC059,Head Shot,3,NF,1st,C,1,2,3,https://storage.googleapis.com/f
 ARC059.RF.1st,ARC059,Head Shot,3,RF,1st,C,1,2,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC059.png,Ranger,Action,Arrow,Attack
 ARC059.NF.Unl,ARC059,Head Shot,3,NF,Unl,C,1,2,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC059.png,Ranger,Action,Arrow,Attack
 ARC059.RF.Unl,ARC059,Head Shot,3,RF,Unl,C,1,2,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC059.png,Ranger,Action,Arrow,Attack
+HVY202.NF,HVY202,Headliner Helm,,NF,,C,,,*,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY202.png,Generic,Equipment,Head
 DRO025.NF,DRO025,Healing Balm,1,NF,,C,0,,2,https://storage.googleapis.com/fabmaster/media/images/DRO025.width-450.png,Generic,Action
 UPR215.NF,UPR215,Healing Balm,1,NF,,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR215.png,Generic,Action
 UPR215.RF,UPR215,Healing Balm,1,RF,,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR215.png,Generic,Action
@@ -3455,6 +3565,8 @@ WTR152.NF.Alpha,WTR152,Heartened Cross Strap,,NF,Alpha,C,,,0,https://storage.goo
 WTR152.CF.Alpha,WTR152,Heartened Cross Strap,,CF,Alpha,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR152.png,Generic,Equipment,Chest
 WTR152.NF.Unl,WTR152,Heartened Cross Strap,,NF,Unl,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR152.png,Generic,Equipment,Chest
 WTR152.RF.Unl,WTR152,Heartened Cross Strap,,RF,Unl,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR152.png,Generic,Equipment,Chest
+HVY181.NF,HVY181,Hearty Block,1,NF,,R,,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY181.png,Guardian,Warrior,Block
+LGS252.RF,LGS252,Hearty Block,1,RF,,P,,,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/LGS252.width-10000.format-webp.webp,Guardian,Warrior,Block
 DYN153.NF,DYN153,Heat Seeker,1,NF,,M,1,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN153.png,Ranger,Action,Arrow,Attack
 DYN153.RF,DYN153,Heat Seeker,1,RF,,M,1,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN153.png,Ranger,Action,Arrow,Attack
 FAI005.NF,FAI005,Heat Wave,,NF,,C,,,0,,Draconic,Ninja,Equipment,Arms
@@ -3634,6 +3746,7 @@ ARC006.NF.1st,ARC006,High Octane,1,NF,1st,M,1,,3,https://storage.googleapis.com/
 ARC006.RF.1st,ARC006,High Octane,1,RF,1st,M,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC006.png,Mechanologist,Action
 ARC006.NF.Unl,ARC006,High Octane,1,NF,Unl,M,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC006.png,Mechanologist,Action
 ARC006.RF.Unl,ARC006,High Octane,1,RF,Unl,M,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC006.png,Mechanologist,Action
+HVY049.NF,HVY049,High Riser,,NF,,T,,3,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY049.png,Guardian,Weapon,Hammer,1H
 EVR005.NF.1st,EVR005,High Roller,1,NF,1st,R,0,,3,https://storage.googleapis.com/fabmaster/media/images/EVR005.width-450.png,Brute,Action
 EVR005.RF.1st,EVR005,High Roller,1,RF,1st,R,0,,3,https://storage.googleapis.com/fabmaster/media/images/EVR005.width-450.png,Brute,Action
 EVR006.NF.1st,EVR006,High Roller,2,NF,1st,R,0,,3,https://storage.googleapis.com/fabmaster/media/images/EVR006.width-450.png,Brute,Action
@@ -3680,6 +3793,9 @@ CRU093.RF.1st,CRU093,Hit and Run,3,RF,1st,C,0,,3,https://storage.googleapis.com/
 CRU093.NF.Unl,CRU093,Hit and Run,3,NF,Unl,C,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU093.png,Warrior,Action
 CRU093.RF.Unl,CRU093,Hit and Run,3,RF,Unl,C,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU093.png,Warrior,Action
 DVR021.NF,DVR021,Hit and Run,3,NF,,C,0,,3,https://storage.googleapis.com/fabmaster/media/images/DVR021.width-450.png,Warrior,Action
+HVY130.NF,HVY130,Hold 'em,1,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY130.png,Warrior,Action
+HVY131.NF,HVY131,Hold 'em,2,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY131.png,Warrior,Action
+HVY132.NF,HVY132,Hold 'em,3,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY132.png,Warrior,Action
 DTD228.NF,DTD228,Hold the Line,3,NF,,M,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD228.png,Generic,Defense Reaction
 DTD228.RF,DTD228,Hold the Line,3,RF,,M,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD228.png,Generic,Defense Reaction
 ELE214.NF.1st,ELE214,Honing Hood,,NF,1st,C,0,,0,https://storage.googleapis.com/fabmaster/media/images/ELE214.width-450.png,Ranger,Equipment,Head
@@ -3687,6 +3803,9 @@ ELE214.CF.1st,ELE214,Honing Hood,,CF,1st,C,0,,0,https://storage.googleapis.com/f
 ELE214.NF.Unl,ELE214,Honing Hood,,NF,Unl,C,0,,0,https://storage.googleapis.com/fabmaster/media/images/U-ELE214.width-450.png,Ranger,Equipment,Head
 ELE214.RF.Unl,ELE214,Honing Hood,,RF,Unl,C,0,,0,https://storage.googleapis.com/fabmaster/media/images/U-ELE214.width-450.png,Ranger,Equipment,Head
 LXI003.NF,LXI003,Honing Hood,,NF,,C,0,,0,https://storage.googleapis.com/fabmaster/media/images/LXI003.width-450.png,Ranger,Equipment,Head
+HVY099.NF,HVY099,Hood of Red Sand,,NF,,R,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY099.png,Warrior,Equipment,Head
+LGS235.RF,LGS235,Hood of Red Sand,,RF,,P,,,1,https://dhhim4ltzu1pj.cloudfront.net/media/images/LGS235.width-10000.format-webp.webp,Warrior,Equipment,Head
+LGS249.CF,LGS249,Hood of Red Sand,,CF,,P,,,1,https://dhhim4ltzu1pj.cloudfront.net/media/images/LGS249.width-10000.format-webp.webp,Warrior,Equipment,Head
 LEV007.NF,LEV007,Hooves of the Shadowbeast,,NF,,C,,,1,https://storage.googleapis.com/fabmaster/media/images/LEV007.width-450.png,Shadow,Brute,Equipment,Legs
 MON122.NF.1st,MON122,Hooves of the Shadowbeast,,NF,1st,C,,,1,https://storage.googleapis.com/fabmaster/media/images/MON122.width-450.png,Shadow,Brute,Equipment,Legs
 MON122.CF.1st,MON122,Hooves of the Shadowbeast,,CF,1st,C,,,1,https://storage.googleapis.com/fabmaster/media/images/MON122.width-450.png,Shadow,Brute,Equipment,Legs
@@ -3702,6 +3821,7 @@ WTR151.RF.Unl,WTR151,Hope Merchant's Hood,,RF,Unl,C,,,0,https://storage.googleap
 DYN152.NF,DYN152,Hornet's Sting,,NF,,R,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN152.png,Ranger,Equipment,Arms
 DYN152.RF,DYN152,Hornet's Sting,,RF,,R,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN152.png,Ranger,Equipment,Arms
 DYN152.CF,DYN152,Hornet's Sting,,CF,,R,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN152.png,Ranger,Equipment,Arms
+HVY095.NF,HVY095,Hot Streak,,NF,,R,,2,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY095.png,Warrior,Weapon,Sword,1H
 CHN022.NF,CHN022,Howl from Beyond,1,NF,,R,2,,2,https://storage.googleapis.com/fabmaster/media/images/CHN022.width-450.png,Shadow,Action
 MON200.NF.1st,MON200,Howl from Beyond,1,NF,1st,R,2,,2,https://storage.googleapis.com/fabmaster/media/images/MON200.width-450.png,Shadow,Action
 MON200.RF.1st,MON200,Howl from Beyond,1,RF,1st,R,2,,2,https://storage.googleapis.com/fabmaster/media/images/MON200.width-450.png,Shadow,Action
@@ -4189,6 +4309,7 @@ TCC050.CF,TCC050,"Jinglewood, Smash Hit",,CF,,R,,2,,https://storage.googleapis.c
 DYN067.NF,DYN067,"Jubeel, Spellbane",,NF,,M,,3,,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN067.png,Warrior,Weapon,Sword,2H
 DYN067.RF,DYN067,"Jubeel, Spellbane",,RF,,M,,3,,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN067.png,Warrior,Weapon,Sword,2H
 FAB137.CF,FAB137,"Jubeel, Spellbane",,CF,,P,,3,,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB137.png,Warrior,Weapon,Sword,2H
+HVY249.NF,HVY249,"Judge, Jury, Executioner",1,NF,,M,1,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY249.png,Ranger,Action,Arrow,Attack
 DYN104.NF,DYN104,Jump Start,1,NF,,C,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN104.png,Mechanologist,Action,Attack
 DYN104.RF,DYN104,Jump Start,1,RF,,C,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN104.png,Mechanologist,Action,Attack
 EVO180.NF,EVO180,Jump Start,1,NF,,C,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO180.png,Mechanologist,Action,Attack
@@ -4217,6 +4338,12 @@ CRU158.NF.Unl,CRU158,"Kano, Dracai of Aether",,NF,Unl,C,,,,https://storage.googl
 HER012.CF,HER012,"Kano, Dracai of Aether",,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER012.png,Wizard,Hero
 HER020.RF,HER020,"Kano, Dracai of Aether",,RF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER020.png,Wizard,Hero
 WIN008.GF,WIN008,"Kano, Dracai of Aether",,GF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/WIN008.png,Wizard,Hero
+HVY091.NF,HVY091,Kassai,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY091.png,Warrior,Hero,Young
+HVY091.CF,HVY091,Kassai,,CF,,V,,,,,Warrior,Hero,Young
+HVY091.CF,HVY091,Kassai,,CF,,V,,,,https://dhhim4ltzu1pj.cloudfront.net/media/images/HVY091_M_BACK.width-300.format-webp.webp,Warrior,Hero,Young
+HVY090.NF,HVY090,Kassai of the Golden Sand,,NF,,M,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY090.png,Warrior,Hero
+HVY090.CF,HVY090,Kassai of the Golden Sand,,CF,,V,,,,,Warrior,Hero
+HVY090.CF,HVY090,Kassai of the Golden Sand,,CF,,V,,,,https://dhhim4ltzu1pj.cloudfront.net/media/images/HVY090_M_BACK.width-300.format-webp.webp,Warrior,Hero
 1HP140.NF,1HP140,"Kassai, Cintari Sellsword",,NF,,R,,,,https://storage.googleapis.com/fabmaster/media/images/1HP140.width-450.png,Warrior,Hero,Young
 CRU077.NF.1st,CRU077,"Kassai, Cintari Sellsword",,NF,1st,R,,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU077.png,Warrior,Hero,Young
 CRU077.RF.1st,CRU077,"Kassai, Cintari Sellsword",,RF,1st,R,,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU077-RF.png,Warrior,Hero,Young
@@ -4248,6 +4375,12 @@ CRU118.RF.1st,CRU118,"Kavdaen, Trader of Skins",,RF,1st,R,,,,https://storage.goo
 CRU118.NF.Unl,CRU118,"Kavdaen, Trader of Skins",,NF,Unl,R,,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU118.png,Merchant,Hero,Young
 CRU118.RF.Unl,CRU118,"Kavdaen, Trader of Skins",,RF,Unl,R,,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU118.png,Merchant,Hero,Young
 HER028.CF,HER028,"Kavdaen, Trader of Skins",,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER028.png,Merchant,Hero,Young
+HVY002.NF,HVY002,Kayo,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY002.png,Brute,Hero,Young
+HVY002.CF,HVY002,Kayo,,CF,,V,,,,,Brute,Hero,Young
+HVY002.CF,HVY002,Kayo,,CF,,V,,,,https://dhhim4ltzu1pj.cloudfront.net/media/images/HVY002_M_BACK.width-300.format-webp.webp,Brute,Hero,Young
+HVY001.NF,HVY001,"Kayo, Armed and Dangerous",,NF,,M,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY001.png,Brute,Hero
+HVY001.CF,HVY001,"Kayo, Armed and Dangerous",,CF,,V,,,,,Brute,Hero
+HVY001.CF,HVY001,"Kayo, Armed and Dangerous",,CF,,V,,,,https://dhhim4ltzu1pj.cloudfront.net/media/images/HVY001_M_BACK.width-300.format-webp.webp,Brute,Hero
 1HP003.NF,1HP003,"Kayo, Berserker Runt",,NF,,R,,,,https://storage.googleapis.com/fabmaster/media/images/1HP003.width-450.png,Brute,Hero,Young
 CRU002.NF.1st,CRU002,"Kayo, Berserker Runt",,NF,1st,R,,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU002.png,Brute,Hero,Young
 CRU002.RF.1st,CRU002,"Kayo, Berserker Runt",,RF,1st,R,,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU002.png,Brute,Hero,Young
@@ -4259,6 +4392,8 @@ EVR159.RF.1st,EVR159,Knick Knack Bric-a-brac,1,RF,1st,M,3,,2,https://storage.goo
 EVR159.RF.1st,EVR159,Knick Knack Bric-a-brac,1,RF,1st,M,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-EVR/EVR159-RF.png,Generic,Action
 OUT144.NF,OUT144,Knives Out,3,NF,,M,0,,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT144.width-450.png,Assassin,Ninja,Attack Reaction
 OUT144.RF,OUT144,Knives Out,3,RF,,M,0,,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT144.width-450.png,Assassin,Ninja,Attack Reaction
+HVY009.NF,HVY009,Knucklehead,,NF,,R,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY009.png,Brute,Equipment,Head
+LGS231.RF,LGS231,Knucklehead,,RF,,P,,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/LGS231.width-10000.format-webp.webp,Brute,Equipment,Head
 ELE000.CF.1st,ELE000,"Korshem, Crossroad of Elements",,CF,1st,F,1,,,https://storage.googleapis.com/fabmaster/media/images/ELE000_vertical.width-450.png,Elemental,Action,Landmark
 ELE000.RF.Unl,ELE000,"Korshem, Crossroad of Elements",,RF,Unl,F,1,,,https://storage.googleapis.com/fabmaster/media/images/U-ELE000.width-450.png,Elemental,Action,Landmark
 EVR121.NF.1st,EVR121,Kraken's Aethervein,,NF,1st,M,,,,https://storage.googleapis.com/fabmaster/media/images/EVR121.width-450.png,Wizard,Weapon,Staff,2H
@@ -4293,6 +4428,7 @@ UPR070.RF,UPR070,Lava Vein Loyalty,2,RF,,C,0,2,3,https://storage.googleapis.com/
 FAI025.NF,FAI025,Lava Vein Loyalty,3,NF,,C,0,1,3,,Draconic,Ninja,Action,Attack
 UPR071.NF,UPR071,Lava Vein Loyalty,3,NF,,C,0,1,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR071.png,Draconic,Ninja,Action,Attack
 UPR071.RF,UPR071,Lava Vein Loyalty,3,RF,,C,0,1,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR071.png,Draconic,Ninja,Action,Attack
+HVY063.NF,HVY063,Lay Down the Law,1,NF,,R,3,7,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY063.png,Guardian,Action,Attack
 TCC035.NF,TCC035,Lay Down the Law,1,NF,,R,3,7,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC035.png,Guardian,Action,Attack
 EVO207.NF,EVO207,Lay Waste,1,NF,,C,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO207.png,Mechanologist,Action,Attack
 EVO207.RF,EVO207,Lay Waste,1,RF,,C,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO207.png,Mechanologist,Action,Attack
@@ -4318,6 +4454,15 @@ ARC211.NF.1st,ARC211,Lead the Charge,3,NF,1st,C,0,,2,https://storage.googleapis.
 ARC211.RF.1st,ARC211,Lead the Charge,3,RF,1st,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC211.png,Generic,Action
 ARC211.NF.Unl,ARC211,Lead the Charge,3,NF,Unl,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC211.png,Generic,Action
 ARC211.RF.Unl,ARC211,Lead the Charge,3,RF,Unl,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC211.png,Generic,Action
+HVY192.NF,HVY192,Lead with Heart,1,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY192.png,Guardian,Warrior,Action
+HVY193.NF,HVY193,Lead with Heart,2,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY193.png,Guardian,Warrior,Action
+HVY194.NF,HVY194,Lead with Heart,3,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY194.png,Guardian,Warrior,Action
+HVY152.NF,HVY152,Lead with Power,1,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY152.png,Brute,Guardian,Action
+HVY153.NF,HVY153,Lead with Power,2,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY153.png,Brute,Guardian,Action
+HVY154.NF,HVY154,Lead with Power,3,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY154.png,Brute,Guardian,Action
+HVY172.NF,HVY172,Lead with Speed,1,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY172.png,Brute,Warrior,Action
+HVY173.NF,HVY173,Lead with Speed,2,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY173.png,Brute,Warrior,Action
+HVY174.NF,HVY174,Lead with Speed,3,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY174.png,Brute,Warrior,Action
 DYN120.NF,DYN120,Leave No Witnesses,1,NF,,M,0,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN120.png,Assassin,Action,Attack
 DYN120.RF,DYN120,Leave No Witnesses,1,RF,,M,0,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN120.png,Assassin,Action,Attack
 1HP116.NF,1HP116,Leg Tap,1,NF,,C,1,4,2,https://storage.googleapis.com/fabmaster/media/images/1HP116.width-450.png,Ninja,Action,Attack
@@ -4490,6 +4635,7 @@ MON003.NF.1st,MON003,Luminaris,,NF,1st,M,,,,https://storage.googleapis.com/fabma
 MON003.CF.1st,MON003,Luminaris,,CF,1st,M,,,,https://storage.googleapis.com/fabmaster/media/images/MON003.width-450.png,Light,Illusionist,Weapon,Scepter,2H
 MON003.NF.Unl,MON003,Luminaris,,NF,Unl,M,,,,https://storage.googleapis.com/fabmaster/media/images/U-MON003.width-450.png,Light,Illusionist,Weapon,Scepter,2H
 MON003.RF.Unl,MON003,Luminaris,,RF,Unl,M,,,,https://storage.googleapis.com/fabmaster/media/images/U-MON003.width-450.png,Light,Illusionist,Weapon,Scepter,2H
+HVY254.NF,HVY254,"Luminaris, Angel's Glow",,NF,,M,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY254.png,Light,Illusionist,Weapon,Scepter,2H
 DTD003.NF,DTD003,"Luminaris, Celestial Fury",,NF,,R,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD003.png,Light,Illusionist,Weapon,Scepter,2H
 FAB166.RF,FAB166,"Luminaris, Celestial Fury",,RF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB166.png,Light,Illusionist,Weapon,Scepter,2H
 LGS160.CF,LGS160,"Luminaris, Celestial Fury",,CF,,P,,,,https://dhhim4ltzu1pj.cloudfront.net/media/images/23_07_armorykit_LGS160.width-10000.png,Light,Illusionist,Weapon,Scepter,2H
@@ -4512,6 +4658,7 @@ CRU186.NF.1st,CRU186,Lunging Press,3,NF,1st,R,0,,2,https://storage.googleapis.co
 CRU186.RF.1st,CRU186,Lunging Press,3,RF,1st,R,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU186.png,Generic,Attack Reaction
 CRU186.NF.Unl,CRU186,Lunging Press,3,NF,Unl,R,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU186.png,Generic,Attack Reaction
 CRU186.RF.Unl,CRU186,Lunging Press,3,RF,Unl,R,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU186.png,Generic,Attack Reaction
+HVY234.NF,HVY234,Lunging Press,3,NF,,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY234.png,Generic,Attack Reaction
 IRA011.NF,IRA011,Lunging Press,3,NF,,P,0,,2,https://storage.googleapis.com/fabmaster/media/images/IRA011-P_6omATzN.width-450.png,Generic,Attack Reaction
 KAT026.NF,KAT026,Lunging Press,3,NF,,R,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-OUT-KAT/EN/KAT026.png,Generic,Attack Reaction
 KSU028.NF,KSU028,Lunging Press,3,NF,,C,0,,2,https://storage.googleapis.com/fabmaster/media/images/KSU28.width-450.png,Generic,Attack Reaction
@@ -4561,6 +4708,7 @@ CRU005.NF.1st,CRU005,Mandible Claw,,NF,1st,R,,3,,https://storage.googleapis.com/
 CRU005.CF.1st,CRU005,Mandible Claw,,CF,1st,R,,3,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU005.png,Brute,Weapon,Claw,1H
 CRU005.NF.Unl,CRU005,Mandible Claw,,NF,Unl,R,,3,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU005.png,Brute,Weapon,Claw,1H
 CRU005.RF.Unl,CRU005,Mandible Claw,,RF,Unl,R,,3,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU005.png,Brute,Weapon,Claw,1H
+HVY005.NF,HVY005,Mandible Claw,,NF,,T,,3,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY005.png,Brute,Weapon,Claw,1H
 1HP051.NF,1HP051,Mangle,1,NF,,M,4,8,3,https://storage.googleapis.com/fabmaster/media/images/1HP051.width-450.png,Guardian,Action,Attack
 CRU026.NF.1st,CRU026,Mangle,1,NF,1st,M,4,8,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU026.png,Guardian,Action,Attack
 CRU026.RF.1st,CRU026,Mangle,1,RF,1st,M,4,8,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU026.png,Guardian,Action,Attack
@@ -4714,7 +4862,12 @@ DTD010.NF,DTD010,"Metis, Archangel of Tenacity",,NF,,M,,4,,https://storage.googl
 DTD010.CF,DTD010,"Metis, Archangel of Tenacity",,CF,,V,,4,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD010_BACK_V2.png,Light,Angel,Ally
 EVR070.NF.1st,EVR070,Micro-processor,3,NF,1st,M,2,,,https://storage.googleapis.com/fabmaster/media/images/EVR070.width-450.png,Mechanologist,Action,Item
 EVR070.RF.1st,EVR070,Micro-processor,3,RF,1st,M,2,,,https://storage.googleapis.com/fabmaster/media/images/EVR070.width-450.png,Mechanologist,Action,Item
+HVY241.NF,HVY241,Might,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY241.png,Generic,Token,Aura
 TCC105.NF,TCC105,Might,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC105.png,Generic,Token,Aura
+HVY143.NF,HVY143,Mighty Windup,1,NF,,C,3,7,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY143.png,Brute,Guardian,Action,Attack
+HVY144.NF,HVY144,Mighty Windup,2,NF,,C,3,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY144.png,Brute,Guardian,Action,Attack
+HVY145.NF,HVY145,Mighty Windup,3,NF,,C,3,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY145.png,Brute,Guardian,Action,Attack
+HVY050.NF,HVY050,Miller's Grindstone,,NF,,R,,4,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY050.png,Guardian,Weapon,Hammer,1H
 DYN194.NF,DYN194,Mind Warp,2,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN194.png,Wizard,Action
 DYN194.RF,DYN194,Mind Warp,2,RF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN194.png,Wizard,Action
 DYN048.NF,DYN048,Mindstate of Tiger,3,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN048.png,Ninja,Action,Aura
@@ -4727,6 +4880,7 @@ EVO094.NF,EVO094,Mini Forcefield,2,NF,,C,1,,,https://storage.googleapis.com/fabm
 EVO094.RF,EVO094,Mini Forcefield,2,RF,,C,1,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO094.png,Mechanologist,Action,Item
 EVO095.NF,EVO095,Mini Forcefield,3,NF,,C,1,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO095.png,Mechanologist,Action,Item
 EVO095.RF,EVO095,Mini Forcefield,3,RF,,C,1,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO095.png,Mechanologist,Action,Item
+HVY007.NF,HVY007,Mini Meataxe,,NF,,R,,3,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY007.png,Brute,Weapon,Axe,1H
 MON296.NF.1st,MON296,Minnowism,1,NF,1st,C,0,,2,https://storage.googleapis.com/fabmaster/media/images/MON296.width-450.png,Generic,Action
 MON296.RF.1st,MON296,Minnowism,1,RF,1st,C,0,,2,https://storage.googleapis.com/fabmaster/media/images/MON296.width-450.png,Generic,Action
 MON296.NF.Unl,MON296,Minnowism,1,NF,Unl,C,0,,2,https://storage.googleapis.com/fabmaster/media/images/U-MON296.width-450.png,Generic,Action
@@ -4745,6 +4899,11 @@ EVR139.NF.1st,EVR139,Miraging Metamorph,1,NF,1st,M,1,7,3,https://storage.googlea
 EVR139.RF.1st,EVR139,Miraging Metamorph,1,RF,1st,M,1,7,3,https://storage.googleapis.com/fabmaster/media/images/EVR139.width-450.png,Illusionist,Action,Attack
 DTD227.NF,DTD227,Mischievous Meeps,1,NF,,M,1,2,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD227.png,Generic,Action,Attack
 DTD227.RF,DTD227,Mischievous Meeps,1,RF,,M,1,2,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD227.png,Generic,Action,Attack
+HVY235.NF,HVY235,Money Where Ya Mouth Is,1,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY235.png,Generic,Action
+HVY236.NF,HVY236,Money Where Ya Mouth Is,2,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY236.png,Generic,Action
+HVY237.NF,HVY237,Money Where Ya Mouth Is,3,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY237.png,Generic,Action
+HVY010.NF,HVY010,Monstrous Veil,,NF,,R,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY010.png,Brute,Equipment,Head
+LGS232.RF,LGS232,Monstrous Veil,,RF,,P,,,1,https://dhhim4ltzu1pj.cloudfront.net/media/images/LGS232.width-10000.format-webp.webp,Brute,Equipment,Head
 ARC185.NF.1st,ARC185,Moon Wish,1,NF,1st,C,2,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC185.png,Generic,Action,Attack
 ARC185.RF.1st,ARC185,Moon Wish,1,RF,1st,C,2,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC185.png,Generic,Action,Attack
 ARC185.NF.Unl,ARC185,Moon Wish,1,NF,Unl,C,2,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC185.png,Generic,Action,Attack
@@ -4806,6 +4965,7 @@ MON191.NF.Unl,MON191,Mutated Mass,3,NF,Unl,M,1,*,*,https://storage.googleapis.co
 MON191.RF.Unl,MON191,Mutated Mass,3,RF,Unl,M,1,*,*,https://storage.googleapis.com/fabmaster/media/images/U-MON191.width-450.png,Shadow,Action,Attack
 DTD193.NF,DTD193,"Nasreth, the Soul Harrower",,NF,,C,,6,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD193.png,Shadow,Token,Demon,Ally
 DTD193.CF,DTD193,"Nasreth, the Soul Harrower",,CF,,V,,6,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD193_V2.png,Shadow,Token,Demon,Ally
+HVY207.NF,HVY207,Nasty Surprise,3,NF,,M,0,2,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY207.png,Generic,Action,Attack
 1HP177.NF,1HP177,Nature's Path Pilgrimage,1,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/media/images/1HP177.width-450.png,Warrior,Action
 TEA013.NF,TEA013,Nature's Path Pilgrimage,1,NF,,C,1,,3,https://storage.googleapis.com/fabmaster/media/images/TEA13.width-450.png,Warrior,Action
 WTR147.NF.Alpha,WTR147,Nature's Path Pilgrimage,1,NF,Alpha,C,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR147.png,Warrior,Action
@@ -4884,6 +5044,7 @@ DYN140.NF,DYN140,Nix the Nimble,2,NF,,C,1,4,3,https://storage.googleapis.com/fab
 DYN140.RF,DYN140,Nix the Nimble,2,RF,,C,1,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN140.png,Assassin,Action,Attack
 DYN141.NF,DYN141,Nix the Nimble,3,NF,,C,1,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN141.png,Assassin,Action,Attack
 DYN141.RF,DYN141,Nix the Nimble,3,RF,,C,1,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN141.png,Assassin,Action,Attack
+HVY016.NF,HVY016,No Fear,1,NF,,M,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY016.png,Brute,Instant
 1HP231.NF,1HP231,Nock the Deathwhistle,3,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/media/images/1HP231.width-450.png,Ranger,Action
 ARC046.NF.1st,ARC046,Nock the Deathwhistle,3,NF,1st,S,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC046.png,Ranger,Action
 ARC046.RF.1st,ARC046,Nock the Deathwhistle,3,RF,1st,S,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC046-RF.png,Ranger,Action
@@ -4968,6 +5129,12 @@ ELE001.NF.Unl,ELE001,"Oldhim, Grandfather of Eternity",,NF,Unl,T,,,,https://stor
 HER042.CF,HER042,"Oldhim, Grandfather of Eternity",,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER042.png,Elemental,Guardian,Hero
 HER048.RF,HER048,"Oldhim, Grandfather of Eternity",,RF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER048.png,Elemental,Guardian,Hero
 WIN013.GF,WIN013,"Oldhim, Grandfather of Eternity",,GF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/WIN013.png,Elemental,Guardian,Hero
+HVY093.NF,HVY093,Olympia,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY093.png,Warrior,Hero,Young
+HVY093.CF,HVY093,Olympia,,CF,,V,,,,,Warrior,Hero,Young
+HVY093.CF,HVY093,Olympia,,CF,,V,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY093_M_BACK.png,Warrior,Hero,Young
+HVY092.NF,HVY092,"Olympia, Prized Fighter",,NF,,M,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY092.png,Warrior,Hero
+HVY092.CF,HVY092,"Olympia, Prized Fighter",,CF,,V,,,,,Warrior,Hero
+HVY092.CF,HVY092,"Olympia, Prized Fighter",,CF,,V,,,,https://dhhim4ltzu1pj.cloudfront.net/media/images/HVY092_M_BACK.width-300.format-webp.webp,Warrior,Hero
 DVR019.NF,DVR019,On a Knife Edge,2,NF,,C,0,,2,https://storage.googleapis.com/fabmaster/media/images/DVR019.width-450.png,Generic,Action
 OUT080.NF,OUT080,One-Two Punch,1,NF,,C,0,3,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT080.width-450.png,Ninja,Action,Attack
 OUT080.RF,OUT080,One-Two Punch,1,RF,,C,0,3,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT080.width-450.png,Ninja,Action,Attack
@@ -5085,6 +5252,9 @@ ARC022.NF.Unl,ARC022,Over Loop,3,NF,Unl,C,2,3,3,https://storage.googleapis.com/f
 ARC022.RF.Unl,ARC022,Over Loop,3,RF,Unl,C,2,3,3,https://storage.googleapis.com/fabmaster/media/images/ARC022_Over_Loop.width-10000.png,Mechanologist,Action,Attack
 EVO221.NF,EVO221,Over Loop,3,NF,,C,2,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO221.png,Mechanologist,Action,Attack
 LGS034.RF,LGS034,Over Loop,3,RF,,P,2,3,3,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS034.png,Mechanologist,Action,Attack
+HVY065.NF,HVY065,Over the Top,1,NF,,R,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY065.png,Guardian,Action,Attack
+HVY066.NF,HVY066,Over the Top,2,NF,,R,3,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY066.png,Guardian,Action,Attack
+HVY067.NF,HVY067,Over the Top,3,NF,,R,3,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY067.png,Guardian,Action,Attack
 CRU112.NF.1st,CRU112,Overblast,1,NF,1st,C,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU112.png,Mechanologist,Action,Attack
 CRU112.RF.1st,CRU112,Overblast,1,RF,1st,C,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU112.png,Mechanologist,Action,Attack
 CRU112.NF.Unl,CRU112,Overblast,1,NF,Unl,C,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU112.png,Mechanologist,Action,Attack
@@ -5097,6 +5267,7 @@ CRU114.NF.1st,CRU114,Overblast,3,NF,1st,C,2,3,3,https://storage.googleapis.com/f
 CRU114.RF.1st,CRU114,Overblast,3,RF,1st,C,2,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU114.png,Mechanologist,Action,Attack
 CRU114.NF.Unl,CRU114,Overblast,3,NF,Unl,C,2,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU114.png,Mechanologist,Action,Attack
 CRU114.RF.Unl,CRU114,Overblast,3,RF,Unl,C,2,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU114.png,Mechanologist,Action,Attack
+HVY201.NF,HVY201,Overcome Adversity,,NF,,C,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY201.png,Generic,Equipment,Legs
 MON275.NF.1st,MON275,Overload,1,NF,1st,C,0,3,2,https://storage.googleapis.com/fabmaster/media/images/MON275.width-450.png,Generic,Action,Attack
 MON275.RF.1st,MON275,Overload,1,RF,1st,C,0,3,2,https://storage.googleapis.com/fabmaster/media/images/MON275.width-450.png,Generic,Action,Attack
 MON275.NF.Unl,MON275,Overload,1,NF,Unl,C,0,3,2,https://storage.googleapis.com/fabmaster/media/images/U-MON275.width-450.png,Generic,Action,Attack
@@ -5127,8 +5298,12 @@ WTR125.NF.Alpha,WTR125,Overpower,3,NF,Alpha,R,3,,3,https://storage.googleapis.co
 WTR125.RF.Alpha,WTR125,Overpower,3,RF,Alpha,R,3,,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR125.png,Warrior,Attack Reaction
 WTR125.NF.Unl,WTR125,Overpower,3,NF,Unl,R,3,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR125.png,Warrior,Attack Reaction
 WTR125.RF.Unl,WTR125,Overpower,3,RF,Unl,R,3,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR125.png,Warrior,Attack Reaction
+HVY020.NF,HVY020,Pack Call,1,NF,,R,3,7,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY020.png,Brute,Action,Attack
+HVY021.NF,HVY021,Pack Call,2,NF,,R,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY021.png,Brute,Action,Attack
 RVD015.NF,RVD015,Pack Call,2,NF,,R,3,6,3,https://storage.googleapis.com/fabmaster/media/images/RVD015.width-450.png,Brute,Action,Attack
+HVY022.NF,HVY022,Pack Call,3,NF,,R,3,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY022.png,Brute,Action,Attack
 1HP025.NF,1HP025,Pack Hunt,1,NF,,C,2,6,3,https://storage.googleapis.com/fabmaster/media/images/1HP025.width-450.png,Brute,Action,Attack
+HVY032.NF,HVY032,Pack Hunt,1,NF,,C,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY032.png,Brute,Action,Attack
 RNR009.NF,RNR009,Pack Hunt,1,NF,,C,2,6,3,https://storage.googleapis.com/fabmaster/media/images/RNR9.width-450.png,Brute,Action,Attack
 RVD010.NF,RVD010,Pack Hunt,1,NF,,C,2,6,3,https://storage.googleapis.com/fabmaster/media/images/RVD010.width-450.png,Brute,Action,Attack
 WTR023.NF.Alpha,WTR023,Pack Hunt,1,NF,Alpha,C,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR023.png,Brute,Action,Attack
@@ -5136,11 +5311,13 @@ WTR023.RF.Alpha,WTR023,Pack Hunt,1,RF,Alpha,C,2,6,3,https://storage.googleapis.c
 WTR023.NF.Unl,WTR023,Pack Hunt,1,NF,Unl,C,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR023.png,Brute,Action,Attack
 WTR023.RF.Unl,WTR023,Pack Hunt,1,RF,Unl,C,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR023.png,Brute,Action,Attack
 1HP026.NF,1HP026,Pack Hunt,2,NF,,C,2,5,3,https://storage.googleapis.com/fabmaster/media/images/1HP026.width-450.png,Brute,Action,Attack
+HVY033.NF,HVY033,Pack Hunt,2,NF,,C,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY033.png,Brute,Action,Attack
 WTR024.NF.Alpha,WTR024,Pack Hunt,2,NF,Alpha,C,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR024.png,Brute,Action,Attack
 WTR024.RF.Alpha,WTR024,Pack Hunt,2,RF,Alpha,C,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR024.png,Brute,Action,Attack
 WTR024.NF.Unl,WTR024,Pack Hunt,2,NF,Unl,C,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR024.png,Brute,Action,Attack
 WTR024.RF.Unl,WTR024,Pack Hunt,2,RF,Unl,C,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR024.png,Brute,Action,Attack
 1HP027.NF,1HP027,Pack Hunt,3,NF,,C,2,4,3,https://storage.googleapis.com/fabmaster/media/images/1HP027.width-450.png,Brute,Action,Attack
+HVY034.NF,HVY034,Pack Hunt,3,NF,,C,2,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY034.png,Brute,Action,Attack
 WTR025.NF.Alpha,WTR025,Pack Hunt,3,NF,Alpha,C,2,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR025.png,Brute,Action,Attack
 WTR025.RF.Alpha,WTR025,Pack Hunt,3,RF,Alpha,C,2,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR025.png,Brute,Action,Attack
 WTR025.NF.Unl,WTR025,Pack Hunt,3,NF,Unl,C,2,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR025.png,Brute,Action,Attack
@@ -5156,6 +5333,7 @@ MON011.NF.1st,MON011,Parable of Humility,2,NF,1st,R,4,,,https://storage.googleap
 MON011.RF.1st,MON011,Parable of Humility,2,RF,1st,R,4,,,https://storage.googleapis.com/fabmaster/media/images/16984263482378r4623792.width-450.png,Light,Illusionist,Instant,Aura
 MON011.NF.Unl,MON011,Parable of Humility,2,NF,Unl,R,4,,,https://storage.googleapis.com/fabmaster/media/images/U-MON011.width-450.png,Light,Illusionist,Instant,Aura
 MON011.RF.Unl,MON011,Parable of Humility,2,RF,Unl,R,4,,,https://storage.googleapis.com/fabmaster/media/images/U-MON011.width-450.png,Light,Illusionist,Instant,Aura
+HVY096.NF,HVY096,Parry Blade,,NF,,R,,2,0,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY096.png,Warrior,Weapon,Equipment,Sword,1H
 EVR142.NF.1st,EVR142,Passing Mirage,3,NF,1st,R,0,,2,https://storage.googleapis.com/fabmaster/media/images/EVR142.width-450.png,Illusionist,Action,Aura
 EVR142.RF.1st,EVR142,Passing Mirage,3,RF,1st,R,0,,2,https://storage.googleapis.com/fabmaster/media/images/EVR142.width-450.png,Illusionist,Action,Aura
 LGS094.CF,LGS094,Passing Mirage,3,CF,,P,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS094.png,Illusionist,Action,Aura
@@ -5173,6 +5351,7 @@ CRU131.NF.Unl,CRU131,Pathing Helix,3,NF,Unl,C,0,2,3,https://storage.googleapis.c
 CRU131.RF.Unl,CRU131,Pathing Helix,3,RF,Unl,C,0,2,3,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU131.png,Ranger,Action,Arrow,Attack
 DYN123.NF,DYN123,Pay Day,3,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN123.png,Assassin,Action
 DYN123.RF,DYN123,Pay Day,3,RF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN123.png,Assassin,Action
+HVY208.NF,HVY208,Pay Up,1,NF,,M,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY208.png,Generic,Action,Attack
 EVR076.NF.1st,EVR076,Payload,1,NF,1st,C,2,6,3,https://storage.googleapis.com/fabmaster/media/images/EVR076.width-450.png,Mechanologist,Action,Attack
 EVR076.RF.1st,EVR076,Payload,1,RF,1st,C,2,6,3,https://storage.googleapis.com/fabmaster/media/images/EVR076.width-450.png,Mechanologist,Action,Attack
 EVR077.NF.1st,EVR077,Payload,2,NF,1st,C,2,5,3,https://storage.googleapis.com/fabmaster/media/images/EVR077.width-450.png,Mechanologist,Action,Attack
@@ -5213,6 +5392,9 @@ CRU122.NF.1st,CRU122,Perch Grapplers,,NF,1st,M,,,2,https://storage.googleapis.co
 CRU122.CF.1st,CRU122,Perch Grapplers,,CF,1st,M,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU122.png,Ranger,Equipment,Legs
 CRU122.NF.Unl,CRU122,Perch Grapplers,,NF,Unl,M,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU122.png,Ranger,Equipment,Legs
 CRU122.RF.Unl,CRU122,Perch Grapplers,,RF,Unl,M,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU122.png,Ranger,Equipment,Legs
+HVY225.NF,HVY225,Performance Bonus,1,NF,,C,0,3,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY225.png,Generic,Action,Attack
+HVY226.NF,HVY226,Performance Bonus,2,NF,,C,0,2,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY226.png,Generic,Action,Attack
+HVY227.NF,HVY227,Performance Bonus,3,NF,,C,0,1,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY227.png,Generic,Action,Attack
 MON091.NF.1st,MON091,Phantasmaclasm,1,NF,1st,M,3,9,3,https://storage.googleapis.com/fabmaster/media/images/fy8w7r78545yit3787efygs8def.width-450.png,Illusionist,Action,Attack
 MON091.RF.1st,MON091,Phantasmaclasm,1,RF,1st,M,3,9,3,https://storage.googleapis.com/fabmaster/media/images/fy8w7r78545yit3787efygs8def.width-450.png,Illusionist,Action,Attack
 MON091.NF.Unl,MON091,Phantasmaclasm,1,NF,Unl,M,3,9,3,https://storage.googleapis.com/fabmaster/media/images/U-MON091.width-450.png,Illusionist,Action,Attack
@@ -5280,6 +5462,7 @@ MON173.RF.1st,MON173,Piercing Shadow Vise,3,RF,1st,C,2,2,3,https://storage.googl
 MON173.NF.Unl,MON173,Piercing Shadow Vise,3,NF,Unl,C,2,2,3,https://storage.googleapis.com/fabmaster/media/images/U-MON173.width-450.png,Shadow,Runeblade,Action,Attack
 MON173.RF.Unl,MON173,Piercing Shadow Vise,3,RF,Unl,C,2,2,3,https://storage.googleapis.com/fabmaster/media/images/U-MON173.width-450.png,Shadow,Runeblade,Action,Attack
 LSS007.CF,LSS007,Pink Visor,,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/LSS007.png,Merchant,Equipment,Head
+HVY089.NF,HVY089,Pint of Strong and Stout,3,NF,,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY089.png,Guardian,Action
 CRU127.NF.1st,CRU127,Pitfall Trap,2,NF,1st,R,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU127.png,Ranger,Defense Reaction,Trap
 CRU127.RF.1st,CRU127,Pitfall Trap,2,RF,1st,R,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU127.png,Ranger,Defense Reaction,Trap
 CRU127.NF.Unl,CRU127,Pitfall Trap,2,NF,Unl,R,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU127.png,Ranger,Defense Reaction,Trap
@@ -5414,6 +5597,9 @@ DYN057.NF,DYN057,Pouncing Qi,2,NF,,C,0,2,3,https://storage.googleapis.com/fabmas
 DYN057.RF,DYN057,Pouncing Qi,2,RF,,C,0,2,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN057.png,Ninja,Action,Attack
 DYN058.NF,DYN058,Pouncing Qi,3,NF,,C,0,1,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN058.png,Ninja,Action,Attack
 DYN058.RF,DYN058,Pouncing Qi,3,RF,,C,0,1,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN058.png,Ninja,Action,Attack
+HVY035.NF,HVY035,Pound Town,1,NF,,C,3,7,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY035.png,Brute,Action,Attack
+HVY036.NF,HVY036,Pound Town,2,NF,,C,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY036.png,Brute,Action,Attack
+HVY037.NF,HVY037,Pound Town,3,NF,,C,3,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY037.png,Brute,Action,Attack
 MON278.NF.1st,MON278,Pound for Pound,1,NF,1st,C,3,6,2,https://storage.googleapis.com/fabmaster/media/images/MON278.width-450.png,Generic,Action,Attack
 MON278.RF.1st,MON278,Pound for Pound,1,RF,1st,C,3,6,2,https://storage.googleapis.com/fabmaster/media/images/MON278.width-450.png,Generic,Action,Attack
 MON278.NF.Unl,MON278,Pound for Pound,1,NF,Unl,C,3,6,2,https://storage.googleapis.com/fabmaster/media/images/U-MON278.width-450.png,Generic,Action,Attack
@@ -5478,6 +5664,7 @@ LGS124.RF,LGS124,Predatory Streak,3,RF,,P,0,,2,https://storage.googleapis.com/fa
 TCC101.NF,TCC101,Predatory Streak,3,NF,,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC101.png,Ninja,Action
 OUT188.NF,OUT188,Premeditate,1,NF,,M,0,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT188.width-450.png,Generic,Action
 OUT188.RF,OUT188,Premeditate,1,RF,,M,0,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT188.width-450.png,Generic,Action
+HVY058.NF,HVY058,Primed to Fight,1,NF,,M,5,9,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY058.png,Guardian,Action,Attack
 1HP040.NF,1HP040,Primeval Bellow,1,NF,,C,0,,3,https://storage.googleapis.com/fabmaster/media/images/1HP040.width-450.png,Brute,Action
 WTR035.NF.Alpha,WTR035,Primeval Bellow,1,NF,Alpha,C,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR035.png,Brute,Action
 WTR035.RF.Alpha,WTR035,Primeval Bellow,1,RF,Alpha,C,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR035.png,Brute,Action
@@ -5525,8 +5712,11 @@ MON094.NF.1st,MON094,Prismatic Shield,3,NF,1st,R,3,,,https://storage.googleapis.
 MON094.RF.1st,MON094,Prismatic Shield,3,RF,1st,R,3,,,https://storage.googleapis.com/fabmaster/media/images/MON094.width-450.png,Illusionist,Instant
 MON094.NF.Unl,MON094,Prismatic Shield,3,NF,Unl,R,3,,,https://storage.googleapis.com/fabmaster/media/images/U-MON094.width-450.png,Illusionist,Instant
 MON094.RF.Unl,MON094,Prismatic Shield,3,RF,Unl,R,3,,,https://storage.googleapis.com/fabmaster/media/images/U-MON094.width-450.png,Illusionist,Instant
+HVY098.NF,HVY098,Prized Galea,,NF,,R,,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY098.png,Warrior,Equipment,Head
+LGS236.RF,LGS236,Prized Galea,,RF,,P,,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/LGS236.width-10000.format-webp.webp,Warrior,Equipment,Head
 JDG009.CF,JDG009,Proclamation of Abundance,,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/JDG009.png,Adjudicator,Equipment,Off-Hand
 JDG010.RF,JDG010,Proclamation of Abundance,,RF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/JDG010.png,Adjudicator,Equipment,Off-Hand
+JDG019.CF,JDG019,Proclamation of Production,,CF,,P,,,,,Adjudicator,Equipment,Off-Hand
 JDG003.CF,JDG003,Proclamation of Requisition,,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/JDG003.png,Adjudicator,Equipment,Off-Hand
 JDG004.RF,JDG004,Proclamation of Requisition,,RF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/JDG004.png,Adjudicator,Equipment,Off-Hand
 HER104.CF,HER104,Professor Teklovossen,,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER104.png,Mechanologist,Hero,Young
@@ -5761,6 +5951,8 @@ WTR190.NF.Unl,WTR190,Raging Onslaught,3,NF,Unl,C,3,5,3,https://storage.googleapi
 WTR190.RF.Unl,WTR190,Raging Onslaught,3,RF,Unl,C,3,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR190.png,Generic,Action,Attack
 EVR090.NF.1st,EVR090,Rain Razors,2,NF,1st,M,0,,,https://storage.googleapis.com/fabmaster/media/images/EVR090.width-450.png,Ranger,Instant
 EVR090.RF.1st,EVR090,Rain Razors,2,RF,1st,M,0,,,https://storage.googleapis.com/fabmaster/media/images/EVR090.width-450.png,Ranger,Instant
+FAB192.RF,FAB192,Raise an Army,2,RF,,P,0,,3,,Warrior,Action
+HVY105.NF,HVY105,Raise an Army,2,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY105.png,Warrior,Action
 DRO011.NF,DRO011,Rake the Embers,1,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/media/images/DRO011.width-450.png,Draconic,Illusionist,Action
 UPR033.NF,UPR033,Rake the Embers,1,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR033.png,Draconic,Illusionist,Action
 UPR033.RF,UPR033,Rake the Embers,1,RF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR033.png,Draconic,Illusionist,Action
@@ -5768,15 +5960,18 @@ UPR034.NF,UPR034,Rake the Embers,2,NF,,C,1,,2,https://storage.googleapis.com/fab
 UPR034.RF,UPR034,Rake the Embers,2,RF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR034.png,Draconic,Illusionist,Action
 UPR035.NF,UPR035,Rake the Embers,3,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR035.png,Draconic,Illusionist,Action
 UPR035.RF,UPR035,Rake the Embers,3,RF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR035.png,Draconic,Illusionist,Action
+HVY228.NF,HVY228,Rally the Rearguard,1,NF,,C,2,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY228.png,Generic,Action,Attack
 LEV028.NF,LEV028,Rally the Rearguard,1,NF,,C,2,6,2,https://storage.googleapis.com/fabmaster/media/images/LEV028.width-450.png,Generic,Action,Attack
 MON281.NF.1st,MON281,Rally the Rearguard,1,NF,1st,C,2,6,2,https://storage.googleapis.com/fabmaster/media/images/MON281.width-450.png,Generic,Action,Attack
 MON281.RF.1st,MON281,Rally the Rearguard,1,RF,1st,C,2,6,2,https://storage.googleapis.com/fabmaster/media/images/MON281.width-450.png,Generic,Action,Attack
 MON281.NF.Unl,MON281,Rally the Rearguard,1,NF,Unl,C,2,6,2,https://storage.googleapis.com/fabmaster/media/images/U-MON281.width-450.png,Generic,Action,Attack
 MON281.RF.Unl,MON281,Rally the Rearguard,1,RF,Unl,C,2,6,2,https://storage.googleapis.com/fabmaster/media/images/U-MON281.width-450.png,Generic,Action,Attack
+HVY229.NF,HVY229,Rally the Rearguard,2,NF,,C,2,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY229.png,Generic,Action,Attack
 MON282.NF.1st,MON282,Rally the Rearguard,2,NF,1st,C,2,5,2,https://storage.googleapis.com/fabmaster/media/images/MON282.width-450.png,Generic,Action,Attack
 MON282.RF.1st,MON282,Rally the Rearguard,2,RF,1st,C,2,5,2,https://storage.googleapis.com/fabmaster/media/images/MON282.width-450.png,Generic,Action,Attack
 MON282.NF.Unl,MON282,Rally the Rearguard,2,NF,Unl,C,2,5,2,https://storage.googleapis.com/fabmaster/media/images/U-MON282.width-450.png,Generic,Action,Attack
 MON282.RF.Unl,MON282,Rally the Rearguard,2,RF,Unl,C,2,5,2,https://storage.googleapis.com/fabmaster/media/images/U-MON282.width-450.png,Generic,Action,Attack
+HVY230.NF,HVY230,Rally the Rearguard,3,NF,,C,2,4,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY230.png,Generic,Action,Attack
 LEV029.NF,LEV029,Rally the Rearguard,3,NF,,C,2,4,2,https://storage.googleapis.com/fabmaster/media/images/LEV029.width-450.png,Generic,Action,Attack
 MON283.NF.1st,MON283,Rally the Rearguard,3,NF,1st,C,2,4,2,https://storage.googleapis.com/fabmaster/media/images/MON283.width-450.png,Generic,Action,Attack
 MON283.RF.1st,MON283,Rally the Rearguard,3,RF,1st,C,2,4,2,https://storage.googleapis.com/fabmaster/media/images/MON283.width-450.png,Generic,Action,Attack
@@ -5837,6 +6032,10 @@ ARC193.RF.1st,ARC193,Ravenous Rabble,3,RF,1st,C,0,3,2,https://storage.googleapis
 ARC193.NF.Unl,ARC193,Ravenous Rabble,3,NF,Unl,C,0,3,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC193.png,Generic,Action,Attack
 ARC193.RF.Unl,ARC193,Ravenous Rabble,3,RF,Unl,C,0,3,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC193.png,Generic,Action,Attack
 OUT215.NF,OUT215,Ravenous Rabble,3,NF,,C,0,3,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT215.width-450.png,Generic,Action,Attack
+HVY011.NF,HVY011,Raw Meat,,NF,,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY011.png,Brute,Equipment,Chest
+HVY023.NF,HVY023,Rawhide Rumble,1,NF,,R,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY023.png,Brute,Action,Attack
+HVY024.NF,HVY024,Rawhide Rumble,2,NF,,R,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY024.png,Brute,Action,Attack
+HVY025.NF,HVY025,Rawhide Rumble,3,NF,,R,2,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY025.png,Brute,Action,Attack
 LGS044.CF,LGS044,Ray of Hope,2,CF,,P,1,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS044.png,Light,Instant
 MON087.NF.1st,MON087,Ray of Hope,2,NF,1st,C,1,,,https://storage.googleapis.com/fabmaster/media/images/MON087.width-450.png,Light,Instant
 MON087.RF.1st,MON087,Ray of Hope,2,RF,1st,C,1,,,https://storage.googleapis.com/fabmaster/media/images/MON087.width-450.png,Light,Instant
@@ -5928,6 +6127,7 @@ UPR073.NF,UPR073,Rebellious Rush,2,NF,,C,2,4,2,https://storage.googleapis.com/fa
 UPR073.RF,UPR073,Rebellious Rush,2,RF,,C,2,4,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR073.png,Draconic,Ninja,Action,Attack
 UPR074.NF,UPR074,Rebellious Rush,3,NF,,C,2,3,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR074.png,Draconic,Ninja,Action,Attack
 UPR074.RF,UPR074,Rebellious Rush,3,RF,,C,2,3,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR074.png,Draconic,Ninja,Action,Attack
+HVY015.NF,HVY015,Reckless Charge,3,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY015.png,Brute,Action
 1HP013.NF,1HP013,Reckless Swing,3,NF,,M,0,,4,https://storage.googleapis.com/fabmaster/media/images/1HP013.width-450.png,Brute,Defense Reaction
 WTR008.NF.Alpha,WTR008,Reckless Swing,3,NF,Alpha,S,0,,4,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR008.png,Brute,Defense Reaction
 WTR008.RF.Alpha,WTR008,Reckless Swing,3,RF,Alpha,S,0,,4,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR008.png,Brute,Defense Reaction
@@ -5983,6 +6183,7 @@ EVR114.NF.1st,EVR114,Reek of Corruption,2,NF,1st,C,2,3,3,https://storage.googlea
 EVR114.RF.1st,EVR114,Reek of Corruption,2,RF,1st,C,2,3,3,https://storage.googleapis.com/fabmaster/media/images/EVR114.width-450.png,Runeblade,Action,Attack
 EVR115.NF.1st,EVR115,Reek of Corruption,3,NF,1st,C,2,2,3,https://storage.googleapis.com/fabmaster/media/images/EVR115.width-450.png,Runeblade,Action,Attack
 EVR115.RF.1st,EVR115,Reek of Corruption,3,RF,1st,C,2,2,3,https://storage.googleapis.com/fabmaster/media/images/EVR115.width-450.png,Runeblade,Action,Attack
+HVY250.NF,HVY250,Reel In,3,NF,,M,X,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY250.png,Ranger,Instant
 1HP145.NF,1HP145,Refraction Bolters,,NF,,C,,,1,https://storage.googleapis.com/fabmaster/media/images/1HP145.width-450.png,Warrior,Equipment,Legs
 TEA007.NF,TEA007,Refraction Bolters,,NF,,C,,,1,https://storage.googleapis.com/fabmaster/media/images/TEA7.width-450.png,Warrior,Equipment,Legs
 WTR117.NF.Alpha,WTR117,Refraction Bolters,,NF,Alpha,C,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR117.png,Warrior,Equipment,Legs
@@ -6021,14 +6222,17 @@ CRU189.NF.1st,CRU189,Reinforce the Line,1,NF,1st,R,0,,,https://storage.googleapi
 CRU189.RF.1st,CRU189,Reinforce the Line,1,RF,1st,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU189.png,Generic,Instant
 CRU189.NF.Unl,CRU189,Reinforce the Line,1,NF,Unl,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU189.png,Generic,Instant
 CRU189.RF.Unl,CRU189,Reinforce the Line,1,RF,Unl,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU189.png,Generic,Instant
+HVY219.NF,HVY219,Reinforce the Line,1,NF,,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY219.png,Generic,Instant
 CRU190.NF.1st,CRU190,Reinforce the Line,2,NF,1st,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU190.png,Generic,Instant
 CRU190.RF.1st,CRU190,Reinforce the Line,2,RF,1st,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU190.png,Generic,Instant
 CRU190.NF.Unl,CRU190,Reinforce the Line,2,NF,Unl,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU190.png,Generic,Instant
 CRU190.RF.Unl,CRU190,Reinforce the Line,2,RF,Unl,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU190.png,Generic,Instant
+HVY220.NF,HVY220,Reinforce the Line,2,NF,,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY220.png,Generic,Instant
 CRU191.NF.1st,CRU191,Reinforce the Line,3,NF,1st,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU191.png,Generic,Instant
 CRU191.RF.1st,CRU191,Reinforce the Line,3,RF,1st,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU191.png,Generic,Instant
 CRU191.NF.Unl,CRU191,Reinforce the Line,3,NF,Unl,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU191.png,Generic,Instant
 CRU191.RF.Unl,CRU191,Reinforce the Line,3,RF,Unl,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU191.png,Generic,Instant
+HVY221.NF,HVY221,Reinforce the Line,3,NF,,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY221.png,Generic,Instant
 ELE106.NF.1st,ELE106,Rejuvenate,1,NF,1st,C,1,,2,https://storage.googleapis.com/fabmaster/media/images/ELE106.width-450.png,Elemental,Action
 ELE106.RF.1st,ELE106,Rejuvenate,1,RF,1st,C,1,,2,https://storage.googleapis.com/fabmaster/media/images/ELE106.width-450.png,Elemental,Action
 ELE106.NF.Unl,ELE106,Rejuvenate,1,NF,Unl,C,1,,2,https://storage.googleapis.com/fabmaster/media/images/U-ELE106.width-450.png,Elemental,Action
@@ -6096,6 +6300,7 @@ UPR169.RF,UPR169,Rewind,3,RF,,M,1,,,https://storage.googleapis.com/fabmaster/car
 1HP002.NF,1HP002,Rhinar,,NF,,C,,,,https://storage.googleapis.com/fabmaster/media/images/1HP002.width-450.png,Brute,Hero,Young
 HER005.RF,HER005,Rhinar,,RF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER005.png,Brute,Hero,Young
 HER054.CF,HER054,Rhinar,,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER054.png,Brute,Hero,Young
+HVY004.NF,HVY004,Rhinar,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY004.png,Brute,Hero,Young
 RNR002.NF,RNR002,Rhinar,,NF,,T,,,,https://storage.googleapis.com/fabmaster/media/images/RNR2.width-450.png,Brute,Hero,Young
 RVD001.CF,RVD001,Rhinar,,CF,,M,,,,https://storage.googleapis.com/fabmaster/media/images/RVD001.width-450.png,Brute,Hero,Young
 WTR002.NF.Alpha,WTR002,Rhinar,,NF,Alpha,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR002.png,Brute,Hero,Young
@@ -6106,6 +6311,7 @@ CRU001.NF.1st,CRU001,"Rhinar, Reckless Rampage",,NF,1st,C,,,,https://storage.goo
 CRU001.NF.Unl,CRU001,"Rhinar, Reckless Rampage",,NF,Unl,C,,,,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU001.png,Brute,Hero
 HER001.CF,HER001,"Rhinar, Reckless Rampage",,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER001.png,Brute,Hero
 HER021.RF,HER021,"Rhinar, Reckless Rampage",,RF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER021.png,Brute,Hero
+HVY003.NF,HVY003,"Rhinar, Reckless Rampage",,NF,,M,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY003.png,Brute,Hero
 RNR001.NF,RNR001,"Rhinar, Reckless Rampage",,NF,,C,,,,https://storage.googleapis.com/fabmaster/media/images/RNR.width-450.png,Brute,Hero
 WIN001.GF,WIN001,"Rhinar, Reckless Rampage",,GF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/WIN001.png,Brute,Hero
 WTR001.NF.Alpha,WTR001,"Rhinar, Reckless Rampage",,NF,Alpha,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR001.png,Brute,Hero
@@ -6210,6 +6416,7 @@ MON182.NF.1st,MON182,Rip Through Reality,3,NF,1st,C,2,2,3,https://storage.google
 MON182.RF.1st,MON182,Rip Through Reality,3,RF,1st,C,2,2,3,https://storage.googleapis.com/fabmaster/media/images/MON182.width-450.png,Shadow,Runeblade,Action,Attack
 MON182.NF.Unl,MON182,Rip Through Reality,3,NF,Unl,C,2,2,3,https://storage.googleapis.com/fabmaster/media/images/U-MON182.width-450.png,Shadow,Runeblade,Action,Attack
 MON182.RF.Unl,MON182,Rip Through Reality,3,RF,Unl,C,2,2,3,https://storage.googleapis.com/fabmaster/media/images/U-MON182.width-450.png,Shadow,Runeblade,Action,Attack
+HVY209.NF,HVY209,Ripple Away,3,NF,,M,2,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY209.png,Generic,Action,Attack
 HER080.CF,HER080,Riptide,,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER080.png,Ranger,Hero,Young
 HER081.RF,HER081,Riptide,,RF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER081.png,Ranger,Hero,Young
 OUT092.NF,OUT092,Riptide,,NF,,T,,,,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT092.width-450.png,Ranger,Hero,Young
@@ -6240,6 +6447,9 @@ UPR058.NF,UPR058,Rise from the Ashes,2,NF,,R,0,,2,https://storage.googleapis.com
 UPR058.RF,UPR058,Rise from the Ashes,2,RF,,R,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR058.png,Draconic,Ninja,Action
 UPR059.NF,UPR059,Rise from the Ashes,3,NF,,R,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR059.png,Draconic,Ninja,Action
 UPR059.RF,UPR059,Rise from the Ashes,3,RF,,R,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR059.png,Draconic,Ninja,Action
+HVY183.NF,HVY183,Rising Energy,1,NF,,C,2,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY183.png,Guardian,Warrior,Action,Attack
+HVY184.NF,HVY184,Rising Energy,2,NF,,C,2,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY184.png,Guardian,Warrior,Action,Attack
+HVY185.NF,HVY185,Rising Energy,3,NF,,C,2,4,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY185.png,Guardian,Warrior,Action,Attack
 1HP119.NF,1HP119,Rising Knee Thrust,1,NF,,C,0,3,3,https://storage.googleapis.com/fabmaster/media/images/1HP119.width-450.png,Ninja,Action,Attack
 KSU014.NF,KSU014,Rising Knee Thrust,1,NF,,C,0,3,3,https://storage.googleapis.com/fabmaster/media/images/KSU14.width-450.png,Ninja,Action,Attack
 WTR104.NF.Alpha,WTR104,Rising Knee Thrust,1,NF,Alpha,C,0,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR104.png,Ninja,Action,Attack
@@ -6257,6 +6467,9 @@ WTR106.NF.Alpha,WTR106,Rising Knee Thrust,3,NF,Alpha,C,0,1,3,https://storage.goo
 WTR106.RF.Alpha,WTR106,Rising Knee Thrust,3,RF,Alpha,C,0,1,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR106.png,Ninja,Action,Attack
 WTR106.NF.Unl,WTR106,Rising Knee Thrust,3,NF,Unl,C,0,1,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR106.png,Ninja,Action,Attack
 WTR106.RF.Unl,WTR106,Rising Knee Thrust,3,RF,Unl,C,0,1,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR106.png,Ninja,Action,Attack
+HVY146.NF,HVY146,Rising Power,1,NF,,C,2,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY146.png,Brute,Guardian,Action,Attack
+HVY147.NF,HVY147,Rising Power,2,NF,,C,2,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY147.png,Brute,Guardian,Action,Attack
+HVY148.NF,HVY148,Rising Power,3,NF,,C,2,4,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY148.png,Brute,Guardian,Action,Attack
 UPR075.NF,UPR075,Rising Resentment,1,NF,,C,0,3,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR075.png,Draconic,Ninja,Action,Attack
 UPR075.RF,UPR075,Rising Resentment,1,RF,,C,0,3,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR075.png,Draconic,Ninja,Action,Attack
 UPR076.NF,UPR076,Rising Resentment,2,NF,,C,0,2,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR076.png,Draconic,Ninja,Action,Attack
@@ -6278,6 +6491,9 @@ MON080.NF.1st,MON080,Rising Solartide,3,NF,1st,C,1,3,3,https://storage.googleapi
 MON080.RF.1st,MON080,Rising Solartide,3,RF,1st,C,1,3,3,https://storage.googleapis.com/fabmaster/media/images/MON080.width-450.png,Light,Action,Attack
 MON080.NF.Unl,MON080,Rising Solartide,3,NF,Unl,C,1,3,3,https://storage.googleapis.com/fabmaster/media/images/U-MON080.width-450.png,Light,Action,Attack
 MON080.RF.Unl,MON080,Rising Solartide,3,RF,Unl,C,1,3,3,https://storage.googleapis.com/fabmaster/media/images/U-MON080.width-450.png,Light,Action,Attack
+HVY166.NF,HVY166,Rising Speed,1,NF,,C,2,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY166.png,Brute,Warrior,Action,Attack
+HVY167.NF,HVY167,Rising Speed,2,NF,,C,2,4,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY167.png,Brute,Warrior,Action,Attack
+HVY168.NF,HVY168,Rising Speed,3,NF,,C,2,3,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY168.png,Brute,Warrior,Action,Attack
 BRI027.NF,BRI027,Rites of Lightning,1,NF,,R,1,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2021-ELE-BRI/BRI027.png,Elemental,Runeblade,Action,Attack
 ELE070.NF.1st,ELE070,Rites of Lightning,1,NF,1st,R,1,4,3,https://storage.googleapis.com/fabmaster/media/images/ELE070.width-450.png,Elemental,Runeblade,Action,Attack
 ELE070.RF.1st,ELE070,Rites of Lightning,1,RF,1st,R,1,4,3,https://storage.googleapis.com/fabmaster/media/images/ELE070.width-450.png,Elemental,Runeblade,Action,Attack
@@ -6392,6 +6608,8 @@ DYN024.NF,DYN024,Rumble Grunting,3,NF,,C,0,,3,https://storage.googleapis.com/fab
 DYN024.RF,DYN024,Rumble Grunting,3,RF,,C,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN024.png,Brute,Action
 DVR013.NF,DVR013,Run Through,2,NF,,R,1,,3,https://storage.googleapis.com/fabmaster/media/images/DVR013.width-450.png,Warrior,Attack Reaction
 LGS102.RF,LGS102,Run Through,2,RF,,P,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS102.png,Warrior,Attack Reaction
+HVY161.NF,HVY161,Run into Trouble,1,NF,,R,,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY161.png,Brute,Warrior,Block
+LGS251.RF,LGS251,Run into Trouble,1,RF,,P,,,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/LGS251.width-10000.format-webp.webp,Brute,Warrior,Block
 ELE236.NF.1st,ELE236,Runaways,,NF,1st,C,,,0,https://storage.googleapis.com/fabmaster/media/images/ELE236.width-450.png,Generic,Equipment,Legs
 ELE236.CF.1st,ELE236,Runaways,,CF,1st,C,,,0,https://storage.googleapis.com/fabmaster/media/images/ELE236.width-450.png,Generic,Equipment,Legs
 ELE236.NF.Unl,ELE236,Runaways,,NF,Unl,C,,,0,https://storage.googleapis.com/fabmaster/media/images/U-ELE236.width-450.png,Generic,Equipment,Legs
@@ -6445,7 +6663,8 @@ DTD213.NF,DTD213,Runic Reckoning,1,NF,,M,1,,3,https://storage.googleapis.com/fab
 DTD213.RF,DTD213,Runic Reckoning,1,RF,,M,1,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD213.png,Runeblade,Action
 EVR104.NF.1st,EVR104,Runic Reclamation,1,NF,1st,M,3,7,3,https://storage.googleapis.com/fabmaster/media/images/EVR104.width-450.png,Runeblade,Action,Attack
 EVR104.RF.1st,EVR104,Runic Reclamation,1,RF,1st,M,3,7,3,https://storage.googleapis.com/fabmaster/media/images/EVR104.width-450.png,Runeblade,Action,Attack
-FAB193.RF,FAB193,Runner Runner,1,RF,,P,2,6,3,,Brute,Warrior,Action
+FAB193.RF,FAB193,Runner Runner,1,RF,,P,2,6,3,,Brute,Warrior,Action,Attack
+HVY156.NF,HVY156,Runner Runner,1,NF,,M,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY156.png,Brute,Warrior,Action,Attack
 1HP110.NF,1HP110,Rushing River,1,NF,,R,0,3,3,https://storage.googleapis.com/fabmaster/media/images/1HP110.width-450.png,Ninja,Action,Attack
 CRU060.NF.1st,CRU060,Rushing River,1,NF,1st,R,0,3,3,https://storage.googleapis.com/fabmaster/media/images/CRU60.width-450.png,Ninja,Action,Attack
 CRU060.RF.1st,CRU060,Rushing River,1,RF,1st,R,0,3,3,https://storage.googleapis.com/fabmaster/media/images/CRU60.width-450.png,Ninja,Action,Attack
@@ -6738,6 +6957,7 @@ OUT125.RF,OUT125,Sedation Shot,2,RF,,C,1,4,3,https://dhhim4ltzu1pj.cloudfront.ne
 AZL024.NF,AZL024,Sedation Shot,3,NF,,C,1,3,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-OUT-AZL/EN/AZL024.png,Ranger,Action,Arrow,Attack
 OUT126.NF,OUT126,Sedation Shot,3,NF,,C,1,3,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT126.width-450.png,Ranger,Action,Arrow,Attack
 OUT126.RF,OUT126,Sedation Shot,3,RF,,C,1,3,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT126.width-450.png,Ranger,Action,Arrow,Attack
+HVY212.NF,HVY212,Seduce Secrets,2,NF,,M,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY212.png,Generic,Instant
 CHN014.NF,CHN014,Seeds of Agony,1,NF,,C,0,,2,https://storage.googleapis.com/fabmaster/media/images/CHN014.width-450.png,Shadow,Runeblade,Action
 MON183.NF.1st,MON183,Seeds of Agony,1,NF,1st,C,0,,2,https://storage.googleapis.com/fabmaster/media/images/MON183_up.width-450.png,Shadow,Runeblade,Action
 MON183.RF.1st,MON183,Seeds of Agony,1,RF,1st,C,0,,2,https://storage.googleapis.com/fabmaster/media/images/MON183_up.width-450.png,Shadow,Runeblade,Action
@@ -6834,6 +7054,7 @@ DTD008.NF,DTD008,"Sekem, Archangel of Ravages",,NF,,M,,4,,https://storage.google
 DTD008.CF,DTD008,"Sekem, Archangel of Ravages",,CF,,V,,4,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD008_BACK_V2.png,Light,Angel,Ally
 UPR154.NF,UPR154,Semblance,3,NF,,M,3,,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR154.png,Illusionist,Instant
 UPR154.RF,UPR154,Semblance,3,RF,,M,3,,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR154.png,Illusionist,Instant
+HVY012.NF,HVY012,Send Packing,2,NF,,M,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY012.png,Brute,Action,Attack
 DTD044.NF,DTD044,"Ser Boltyn, Breaker of Dawn",,NF,,C,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD044.png,Light,Warrior,Hero
 HER031.CF,HER031,"Ser Boltyn, Breaker of Dawn",,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER031.png,Light,Warrior,Hero
 HER039.RF,HER039,"Ser Boltyn, Breaker of Dawn",,RF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER039.png,Light,Warrior,Hero
@@ -6885,6 +7106,7 @@ WTR143.NF.Unl,WTR143,Sharpen Steel,3,NF,Unl,C,0,,3,https://storage.googleapis.co
 WTR143.RF.Unl,WTR143,Sharpen Steel,3,RF,Unl,C,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR143.png,Warrior,Action
 EVR054.NF.1st,EVR054,Shatter,2,NF,1st,M,0,,3,https://storage.googleapis.com/fabmaster/media/images/EVR054.width-450.png,Warrior,Attack Reaction
 EVR054.RF.1st,EVR054,Shatter,2,RF,1st,M,0,,3,https://storage.googleapis.com/fabmaster/media/images/EVR054.width-450.png,Warrior,Attack Reaction
+HVY197.NF,HVY197,Sheltered Cove,,NF,,C,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY197.png,Generic,Equipment,Head
 DYN030.NF,DYN030,Shield Bash,1,NF,,R,3,,6,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN030.png,Guardian,Defense Reaction
 DYN030.RF,DYN030,Shield Bash,1,RF,,R,3,,6,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN030.png,Guardian,Defense Reaction
 DYN031.NF,DYN031,Shield Bash,2,NF,,R,3,,5,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN031.png,Guardian,Defense Reaction
@@ -6897,6 +7119,7 @@ DYN037.NF,DYN037,Shield Wall,2,NF,,C,6,,6,https://storage.googleapis.com/fabmast
 DYN037.RF,DYN037,Shield Wall,2,RF,,C,6,,6,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN037.png,Guardian,Defense Reaction
 DYN038.NF,DYN038,Shield Wall,3,NF,,C,6,,5,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN038.png,Guardian,Defense Reaction
 DYN038.RF,DYN038,Shield Wall,3,RF,,C,6,,5,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN038.png,Guardian,Defense Reaction
+HVY102.NF,HVY102,Shift the Tide of Battle,2,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY102.png,Warrior,Attack Reaction
 EVR140.NF.1st,EVR140,Shimmers of Silver,3,NF,1st,M,0,,2,https://storage.googleapis.com/fabmaster/media/images/EVR140.width-450.png,Illusionist,Action,Aura
 EVR140.RF.1st,EVR140,Shimmers of Silver,3,RF,1st,M,0,,2,https://storage.googleapis.com/fabmaster/media/images/EVR140.width-450.png,Illusionist,Action,Aura
 LGS099.RF,LGS099,Shitty Xmas Present,2,RF,,P,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS099.png,Generic,Action
@@ -6930,6 +7153,7 @@ OUT155.NF,OUT155,Short and Sharp,2,NF,,C,1,,2,https://dhhim4ltzu1pj.cloudfront.n
 OUT155.RF,OUT155,Short and Sharp,2,RF,,C,1,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT155.width-450.png,Assassin,Ninja,Attack Reaction
 OUT156.NF,OUT156,Short and Sharp,3,NF,,C,1,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT156.width-450.png,Assassin,Ninja,Attack Reaction
 OUT156.RF,OUT156,Short and Sharp,3,RF,,C,1,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT156.width-450.png,Assassin,Ninja,Attack Reaction
+HVY013.NF,HVY013,Show No Mercy,1,NF,,M,3,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY013.png,Brute,Action,Attack
 1HP054.NF,1HP054,Show Time!,3,NF,,M,3,,3,https://storage.googleapis.com/fabmaster/media/images/1HP054.width-450.png,Guardian,Action,Aura
 WTR047.NF.Alpha,WTR047,Show Time!,3,NF,Alpha,S,3,,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR047.png,Guardian,Action,Aura
 WTR047.RF.Alpha,WTR047,Show Time!,3,RF,Alpha,S,3,,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR047.png,Guardian,Action,Aura
@@ -7089,6 +7313,7 @@ EVO010.NF,EVO010,Singularity,1,NF,,L,6,,3,https://storage.googleapis.com/fabmast
 EVO010.CF,EVO010,Singularity,1,CF,,V,6,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO010_V2.png,Mechanologist,Action,Construct
 1HP408.NF,1HP408,Sink Below,1,NF,,C,0,,4,https://storage.googleapis.com/fabmaster/media/images/1HP408.width-450.png,Generic,Defense Reaction
 DRO028.NF,DRO028,Sink Below,1,NF,,C,0,,4,https://storage.googleapis.com/fabmaster/media/images/DRO028.width-450.png,Generic,Defense Reaction
+JDG020.CF,JDG020,Sink Below,1,CF,,P,0,,4,,Generic,Defense Reaction
 WTR215.NF.Alpha,WTR215,Sink Below,1,NF,Alpha,C,0,,4,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR215.png,Generic,Defense Reaction
 WTR215.RF.Alpha,WTR215,Sink Below,1,RF,Alpha,C,0,,4,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR215.png,Generic,Defense Reaction
 WTR215.NF.Unl,WTR215,Sink Below,1,NF,Unl,C,0,,4,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR215.png,Generic,Defense Reaction
@@ -7136,6 +7361,7 @@ OUT128.NF,OUT128,Skybound Shot,2,NF,,C,1,4,3,https://dhhim4ltzu1pj.cloudfront.ne
 OUT128.RF,OUT128,Skybound Shot,2,RF,,C,1,4,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT128.width-450.png,Ranger,Action,Arrow,Attack
 OUT129.NF,OUT129,Skybound Shot,3,NF,,C,1,3,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT129.width-450.png,Ranger,Action,Arrow,Attack
 OUT129.RF,OUT129,Skybound Shot,3,RF,,C,1,3,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT129.width-450.png,Ranger,Action,Arrow,Attack
+HVY180.NF,HVY180,Slap-Happy,1,NF,,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY180.png,Guardian,Warrior,Instant
 EVO248.NF,EVO248,Slay,1,NF,,M,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO248.png,Shadow,Instant
 EVO248.RF,EVO248,Slay,1,RF,,M,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO248.png,Shadow,Instant
 DYN145.NF,DYN145,Slay the Scholars,1,NF,,C,0,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN145.png,Assassin,Action,Attack
@@ -7192,6 +7418,7 @@ WTR223.NF.Alpha,WTR223,Sloggism,3,NF,Alpha,C,3,,2,https://storage.googleapis.com
 WTR223.RF.Alpha,WTR223,Sloggism,3,RF,Alpha,C,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR223.png,Generic,Action
 WTR223.NF.Unl,WTR223,Sloggism,3,NF,Unl,C,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR223.png,Generic,Action
 WTR223.RF.Unl,WTR223,Sloggism,3,RF,Unl,C,3,,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR223.png,Generic,Action
+HVY064.NF,HVY064,Smack of Reality,1,NF,,R,5,9,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY064.png,Guardian,Action,Attack
 TCC036.NF,TCC036,Smack of Reality,1,NF,,R,5,9,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC036.png,Guardian,Action,Attack
 1HP034.NF,1HP034,Smash Instinct,1,NF,,C,3,7,3,https://storage.googleapis.com/fabmaster/media/images/1HP034.width-450.png,Brute,Action,Attack
 RNR012.NF,RNR012,Smash Instinct,1,NF,,C,3,7,3,https://storage.googleapis.com/fabmaster/media/images/RNR12.width-450.png,Brute,Action,Attack
@@ -7228,6 +7455,7 @@ MON228.NF.1st,MON228,Smash with Big Tree,3,NF,1st,C,2,5,,https://storage.googlea
 MON228.RF.1st,MON228,Smash with Big Tree,3,RF,1st,C,2,5,,https://storage.googleapis.com/fabmaster/media/images/MON228.width-450.png,Brute,Action,Attack
 MON228.NF.Unl,MON228,Smash with Big Tree,3,NF,Unl,C,2,5,,https://storage.googleapis.com/fabmaster/media/images/U-MON228.width-450.png,Brute,Action,Attack
 MON228.RF.Unl,MON228,Smash with Big Tree,3,RF,Unl,C,2,5,,https://storage.googleapis.com/fabmaster/media/images/U-MON228.width-450.png,Brute,Action,Attack
+HVY044.NF,HVY044,Smashback Alehorn,3,NF,,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY044.png,Brute,Action
 EVR170.NF.1st,EVR170,Smashing Good Time,1,NF,1st,R,0,,2,https://storage.googleapis.com/fabmaster/media/images/EVR170.width-450.png,Generic,Action
 EVR170.RF.1st,EVR170,Smashing Good Time,1,RF,1st,R,0,,2,https://storage.googleapis.com/fabmaster/media/images/EVR170.width-450.png,Generic,Action
 JDG018.CF,JDG018,Smashing Good Time,1,CF,,P,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/promos/JDG018.png,Generic,Action
@@ -7327,6 +7555,7 @@ MON231.NF.Unl,MON231,Sonata Arcanix,1,NF,Unl,M,XX,,2,https://storage.googleapis.
 MON231.RF.Unl,MON231,Sonata Arcanix,1,RF,Unl,M,XX,,2,https://storage.googleapis.com/fabmaster/media/images/U-MON231.width-450.png,Runeblade,Action
 EVO242.NF,EVO242,Sonata Fantasmia,3,NF,,M,XX,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO242.png,Runeblade,Action
 EVO242.RF,EVO242,Sonata Fantasmia,3,RF,,M,XX,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO242.png,Runeblade,Action
+HVY251.NF,HVY251,Sonata Galaxia,1,NF,,M,XX,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY251.png,Runeblade,Action
 LGS217.RF,LGS217,Song of Jack-be-Quick,3,RF,,P,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS217.png,Bard,Action,Song
 TCC064.NF,TCC064,Song of Jack-be-Quick,3,NF,,C,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC064.png,Bard,Action,Song
 LGS220.RF,LGS220,Song of Sweet Nectar,3,RF,,P,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS220.png,Bard,Action,Song
@@ -7626,14 +7855,22 @@ HER100.CF,HER100,Squizzy & Floof,,CF,,P,,,,https://storage.googleapis.com/fabmas
 HER101.RF,HER101,Squizzy & Floof,,RF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/HER101.png,Merchant,Hero,Young
 OUT142.NF,OUT142,Stab Wound,3,NF,,M,0,2,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT142.width-450.png,Assassin,Ninja,Action,Attack
 OUT142.RF,OUT142,Stab Wound,3,RF,,M,0,2,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT142.width-450.png,Assassin,Ninja,Action,Attack
+HVY068.NF,HVY068,Stacked in Your Favor,1,NF,,R,2,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY068.png,Guardian,Action,Aura
+HVY069.NF,HVY069,Stacked in Your Favor,2,NF,,R,2,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY069.png,Guardian,Action,Aura
+HVY070.NF,HVY070,Stacked in Your Favor,3,NF,,R,2,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY070.png,Guardian,Action,Aura
+HVY203.NF,HVY203,Stadium Centerpiece,,NF,,C,,,*,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY203.png,Generic,Equipment,Chest
 EVR018.CF.1st,EVR018,"Stalagmite, Bastion of Isenloft",,CF,1st,L,,,2,https://storage.googleapis.com/fabmaster/media/images/EVR018.width-450.png,Ice,Guardian,Equipment,Off-Hand
 FAB078.GF,FAB078,"Stalagmite, Bastion of Isenloft",,GF,,P,,,2,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB078.png,Ice,Guardian,Equipment,Off-Hand
 CRU028.NF.1st,CRU028,Stamp Authority,3,NF,1st,M,3,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU028.png,Guardian,Action,Aura
 CRU028.RF.1st,CRU028,Stamp Authority,3,RF,1st,M,3,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU028.png,Guardian,Action,Aura
 CRU028.NF.Unl,CRU028,Stamp Authority,3,NF,Unl,M,3,,3,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU028.png,Guardian,Action,Aura
 CRU028.RF.Unl,CRU028,Stamp Authority,3,RF,Unl,M,3,,3,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU028.png,Guardian,Action,Aura
+HVY056.NF,HVY056,Stand Ground,,NF,,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY056.png,Guardian,Equipment,Legs
+HVY210.NF,HVY210,Standing Order,1,NF,,M,0,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY210.png,Generic,Action,Attack
 DTD203.NF,DTD203,Star Struck,2,NF,,M,7,10,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD203.png,Guardian,Action,Attack
 DTD203.RF,DTD203,Star Struck,2,RF,,M,7,10,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD203.png,Guardian,Action,Attack
+HVY238.NF,HVY238,Starting Stake,2,NF,,C,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY238.png,Generic,Action
+LGS228.NF,LGS228,Starting Stake,2,NF,,P,0,,3,,Generic,Action
 EVO073.NF,EVO073,Stasis Cell,3,NF,,M,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO073.png,Mechanologist,Action,Item
 EVO073.RF,EVO073,Stasis Cell,3,RF,,M,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO073.png,Mechanologist,Action,Item
 1HP058.NF,1HP058,Staunch Response,1,NF,,R,2,,7,https://storage.googleapis.com/fabmaster/media/images/1HP058.width-450.png,Guardian,Defense Reaction
@@ -7742,6 +7979,7 @@ WTR074.NF.Alpha,WTR074,Stonewall Confidence,3,NF,Alpha,C,2,,3,https://storage.go
 WTR074.RF.Alpha,WTR074,Stonewall Confidence,3,RF,Alpha,C,2,,3,https://storage.googleapis.com/fabmaster/cardfaces/2019-WTR/WTR074.png,Guardian,Action,Aura
 WTR074.NF.Unl,WTR074,Stonewall Confidence,3,NF,Unl,C,2,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR074.png,Guardian,Action,Aura
 WTR074.RF.Unl,WTR074,Stonewall Confidence,3,RF,Unl,C,2,,3,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-WTR/U-WTR074.png,Guardian,Action,Aura
+HVY052.NF,HVY052,Stonewall Impasse,,NF,,R,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY052.png,Guardian,Equipment,Off-Hand
 MON284.NF.1st,MON284,Stony Woottonhog,1,NF,1st,C,2,6,2,https://storage.googleapis.com/fabmaster/media/images/MON284.width-450.png,Generic,Action,Attack
 MON284.RF.1st,MON284,Stony Woottonhog,1,RF,1st,C,2,6,2,https://storage.googleapis.com/fabmaster/media/images/MON284.width-450.png,Generic,Action,Attack
 MON284.NF.Unl,MON284,Stony Woottonhog,1,NF,Unl,C,2,6,2,https://storage.googleapis.com/fabmaster/media/images/U-MON284.width-450.png,Generic,Action,Attack
@@ -7985,8 +8223,12 @@ MON056.NF.1st,MON056,Take Flight,3,NF,1st,C,1,2,3,https://storage.googleapis.com
 MON056.RF.1st,MON056,Take Flight,3,RF,1st,C,1,2,3,https://storage.googleapis.com/fabmaster/media/images/MON056.width-450.png,Light,Warrior,Action,Attack
 MON056.NF.Unl,MON056,Take Flight,3,NF,Unl,C,1,2,3,https://storage.googleapis.com/fabmaster/media/images/U-MON056.width-450.png,Light,Warrior,Action,Attack
 MON056.RF.Unl,MON056,Take Flight,3,RF,Unl,C,1,2,3,https://storage.googleapis.com/fabmaster/media/images/U-MON056.width-450.png,Light,Warrior,Action,Attack
+HVY160.NF,HVY160,Take it on the Chin,1,NF,,R,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY160.png,Brute,Warrior,Instant
 UPR161.NF,UPR161,Take the Tempo,1,NF,,M,1,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR161.png,Ninja,Action,Attack
 UPR161.RF,UPR161,Take the Tempo,1,RF,,M,1,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR161.png,Ninja,Action,Attack
+HVY112.NF,HVY112,Take the Upper Hand,1,NF,,R,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY112.png,Warrior,Attack Reaction
+HVY113.NF,HVY113,Take the Upper Hand,2,NF,,R,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY113.png,Warrior,Attack Reaction
+HVY114.NF,HVY114,Take the Upper Hand,3,NF,,R,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY114.png,Warrior,Attack Reaction
 LSS005.RF,LSS005,Tales of Adventure,3,RF,,P,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/promos/LSS005.png,Bard,Action
 1HP367.NF,1HP367,"Talishar, the Lost Prince",,NF,,R,,4,,https://storage.googleapis.com/fabmaster/media/images/1HP367.width-450.png,Generic,Weapon,Sword,2H
 CRU177.NF.1st,CRU177,"Talishar, the Lost Prince",,NF,1st,R,,4,,https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU177.png,Generic,Weapon,Sword,2H
@@ -8016,6 +8258,7 @@ ARC151.NF.Unl,ARC151,Talismanic Lens,,NF,Unl,C,,,0,https://storage.googleapis.co
 ARC151.RF.Unl,ARC151,Talismanic Lens,,RF,Unl,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC151.png,Generic,Equipment,Head
 FAB066.GF,FAB066,Talismanic Lens,,GF,,P,,,0,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB066.png,Generic,Equipment,Head
 FAB195.RF,FAB195,Talk a Big Game,3,RF,,P,0,,3,,Brute,Guardian,Action
+HVY136.NF,HVY136,Talk a Big Game,3,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY136.png,Brute,Guardian,Action
 LGS140.RF,LGS140,Tarpit Trap,2,RF,,P,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS140.png,Ranger,Defense Reaction,Trap
 OUT108.NF,OUT108,Tarpit Trap,2,NF,,R,0,,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT108.width-450.png,Ranger,Defense Reaction,Trap
 OUT108.RF,OUT108,Tarpit Trap,2,RF,,R,0,,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT108.width-450.png,Ranger,Defense Reaction,Trap
@@ -8110,13 +8353,20 @@ DYN210.NF,DYN210,Tempest Aurora,2,NF,,C,0,,2,https://storage.googleapis.com/fabm
 DYN210.RF,DYN210,Tempest Aurora,2,RF,,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN210.png,Wizard,Action
 DYN211.NF,DYN211,Tempest Aurora,3,NF,,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN211.png,Wizard,Action
 DYN211.RF,DYN211,Tempest Aurora,3,RF,,C,0,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN211.png,Wizard,Action
+HVY211.NF,HVY211,Tenacity,2,NF,,M,0,2,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY211.png,Generic,Action,Attack
 EVO055.NF,EVO055,Terminator Tank,1,NF,,M,6,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO055.png,Mechanologist,Action,Attack
 EVO055.RF,EVO055,Terminator Tank,1,RF,,M,6,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO055.png,Mechanologist,Action,Attack
 EVO055.RF,EVO055,Terminator Tank,1,RF,,M,6,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO055_V2.png,Mechanologist,Action,Attack
+HVY162.NF,HVY162,Test of Agility,1,NF,,R,,,4,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY162.png,Brute,Warrior,Block
+HVY141.NF,HVY141,Test of Might,1,NF,,R,,,4,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY141.png,Brute,Guardian,Block
+FAB199.NF,FAB199,Test of Strength,1,NF,,P,,,4,,Generic,Block
+HVY239.NF,HVY239,Test of Strength,1,NF,,C,,,4,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY239.png,Generic,Block
+HVY182.NF,HVY182,Test of Vigor,1,NF,,R,,,4,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY182.png,Guardian,Warrior,Block
 UPR189.NF,UPR189,That All You Got?,2,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR189.png,Generic,Defense Reaction
 UPR189.RF,UPR189,That All You Got?,2,RF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR189.png,Generic,Defense Reaction
 UPR086.NF,UPR086,Thaw,1,NF,,M,2,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR086.png,Draconic,Action,Attack
 UPR086.RF,UPR086,Thaw,1,RF,,M,2,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR086.png,Draconic,Action,Attack
+HVY059.NF,HVY059,The Golden Son,2,NF,,M,4,7,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY059.png,Guardian,Action,Attack
 FAB043.RF,FAB043,The Librarian,,RF,,P,,,3,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB043.png,Illusionist,Mentor
 PSM002.NF,PSM002,The Librarian,,NF,,M,,,3,https://storage.googleapis.com/fabmaster/media/images/PSM002_The_Librarian.width-10000.png,Illusionist,Mentor
 UPR015.NF,UPR015,Themai,,NF,,R,,3,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR015_A_Back.png,Draconic,Illusionist,Dragon,Ally
@@ -8179,8 +8429,12 @@ EVR025.RF.1st,EVR025,Thunder Quake,2,RF,1st,R,6,9,3,https://storage.googleapis.c
 EVR026.NF.1st,EVR026,Thunder Quake,3,NF,1st,R,6,8,3,https://storage.googleapis.com/fabmaster/media/images/EVR026.width-450.png,Guardian,Action,Attack
 EVR026.RF.1st,EVR026,Thunder Quake,3,RF,1st,R,6,8,3,https://storage.googleapis.com/fabmaster/media/images/EVR026.width-450.png,Guardian,Action,Attack
 EVR026.RF.1st,EVR026,Thunder Quake,3,RF,1st,R,6,8,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-EVR/EVR026-RF.png,Guardian,Action,Attack
+HVY077.NF,HVY077,Thunk,1,NF,,C,5,8,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY077.png,Guardian,Action,Attack
+HVY078.NF,HVY078,Thunk,2,NF,,C,5,7,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY078.png,Guardian,Action,Attack
+HVY079.NF,HVY079,Thunk,3,NF,,C,5,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY079.png,Guardian,Action,Attack
 EVO074.NF,EVO074,Tick Tock Clock,1,NF,,M,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO074.png,Mechanologist,Action,Item
 EVO074.RF,EVO074,Tick Tock Clock,1,RF,,M,0,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-EVO/EN/EVO074.png,Mechanologist,Action,Item
+HVY204.NF,HVY204,Ticket Puncher,,NF,,C,,,*,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY204.png,Generic,Equipment,Arms
 UPR159.NF,UPR159,Tide Flippers,,NF,,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR159.png,Ninja,Equipment,Legs
 UPR159.RF,UPR159,Tide Flippers,,RF,,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR159.png,Ninja,Equipment,Legs
 UPR159.CF,UPR159,Tide Flippers,,CF,,C,,,0,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR159.png,Ninja,Equipment,Legs
@@ -8311,10 +8565,13 @@ FAB130.RF,FAB130,Toxicity,3,RF,,P,0,,2,https://storage.googleapis.com/fabmaster/
 OUT167.NF,OUT167,Toxicity,3,NF,,R,0,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT167.width-450.png,Assassin,Ranger,Action
 OUT167.RF,OUT167,Toxicity,3,RF,,R,0,,2,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT167.width-450.png,Assassin,Ranger,Action
 FAI021.NF,FAI021,Trade In,1,NF,,C,0,3,2,,Generic,Action,Attack
+HVY231.NF,HVY231,Trade In,1,NF,,C,0,3,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY231.png,Generic,Action,Attack
 UPR212.NF,UPR212,Trade In,1,NF,,C,0,3,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR212.png,Generic,Action,Attack
 UPR212.RF,UPR212,Trade In,1,RF,,C,0,3,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR212.png,Generic,Action,Attack
+HVY232.NF,HVY232,Trade In,2,NF,,C,0,2,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY232.png,Generic,Action,Attack
 UPR213.NF,UPR213,Trade In,2,NF,,C,0,2,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR213.png,Generic,Action,Attack
 UPR213.RF,UPR213,Trade In,2,RF,,C,0,2,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR213.png,Generic,Action,Attack
+HVY233.NF,HVY233,Trade In,3,NF,,C,0,1,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY233.png,Generic,Action,Attack
 UPR214.NF,UPR214,Trade In,3,NF,,C,0,1,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR214.png,Generic,Action,Attack
 UPR214.RF,UPR214,Trade In,3,RF,,C,0,1,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR214.png,Generic,Action,Attack
 DYN221.NF,DYN221,Tranquil Passing,1,NF,,R,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN221.png,Illusionist,Action,Aura
@@ -8364,6 +8621,7 @@ CRU126.RF.1st,CRU126,Tripwire Trap,1,RF,1st,R,0,,4,https://storage.googleapis.co
 CRU126.NF.Unl,CRU126,Tripwire Trap,1,NF,Unl,R,0,,4,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU126.png,Ranger,Defense Reaction,Trap
 CRU126.RF.Unl,CRU126,Tripwire Trap,1,RF,Unl,R,0,,4,https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU126.png,Ranger,Defense Reaction,Trap
 LGS150.RF,LGS150,Tripwire Trap,1,RF,,P,0,,4,https://dhhim4ltzu1pj.cloudfront.net/media/images/LGS150.width-10000.png,Ranger,Defense Reaction,Trap
+HVY061.NF,HVY061,Trounce,1,NF,,M,,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY061.png,Guardian,Block
 ELE010.NF.1st,ELE010,Turn Timber,1,NF,1st,R,2,,6,https://storage.googleapis.com/fabmaster/media/images/ELE010.width-450.png,Elemental,Guardian,Defense Reaction
 ELE010.RF.1st,ELE010,Turn Timber,1,RF,1st,R,2,,6,https://storage.googleapis.com/fabmaster/media/images/ELE010.width-450.png,Elemental,Guardian,Defense Reaction
 ELE010.NF.Unl,ELE010,Turn Timber,1,NF,Unl,R,2,,6,https://storage.googleapis.com/fabmaster/media/images/U-ELE010.width-450.png,Elemental,Guardian,Defense Reaction
@@ -8452,6 +8710,7 @@ MON152.NF.1st,MON152,Unworldly Bellow,3,NF,1st,C,1,,3,https://storage.googleapis
 MON152.RF.1st,MON152,Unworldly Bellow,3,RF,1st,C,1,,3,https://storage.googleapis.com/fabmaster/media/images/MON152.width-450.png,Shadow,Brute,Action
 MON152.NF.Unl,MON152,Unworldly Bellow,3,NF,Unl,C,1,,3,https://storage.googleapis.com/fabmaster/media/images/U-MON152.width-450.png,Shadow,Brute,Action
 MON152.RF.Unl,MON152,Unworldly Bellow,3,RF,Unl,C,1,,3,https://storage.googleapis.com/fabmaster/media/images/U-MON152.width-450.png,Shadow,Brute,Action
+HVY103.NF,HVY103,Up the Ante,3,NF,,M,X,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY103.png,Warrior,Attack Reaction
 UPR088.NF,UPR088,Uprising,1,NF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR088.png,Draconic,Action
 UPR088.RF,UPR088,Uprising,1,RF,,M,0,,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR088.png,Draconic,Action
 DYN107.NF,DYN107,Urgent Delivery,1,NF,,C,0,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-DYN/EN/DYN107.png,Mechanologist,Action,Attack
@@ -8565,9 +8824,17 @@ MON234.RF.Unl,MON234,Vexing Malice,3,RF,Unl,R,1,1,3,https://storage.googleapis.c
 EVR103.NF.1st,EVR103,Vexing Quillhand,,NF,1st,M,,,0,https://storage.googleapis.com/fabmaster/media/images/EVR103.width-450.png,Runeblade,Equipment,Arms
 EVR103.CF.1st,EVR103,Vexing Quillhand,,CF,1st,M,,,0,https://storage.googleapis.com/fabmaster/media/images/EVR103.width-450.png,Runeblade,Equipment,Arms
 FAB080.GF,FAB080,Vexing Quillhand,,GF,,P,,,0,https://storage.googleapis.com/fabmaster/cardfaces/promos/FAB080.png,Runeblade,Equipment,Arms
+HVY048.NF,HVY048,Victor Goldmane,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY048.png,Guardian,Hero,Young
+HVY048.CF,HVY048,Victor Goldmane,,CF,,V,,,,,Guardian,Hero,Young
+HVY048.CF,HVY048,Victor Goldmane,,CF,,V,,,,https://dhhim4ltzu1pj.cloudfront.net/media/images/HVY048_M_BACK.width-300.format-webp.webp,Guardian,Hero,Young
+HVY047.NF,HVY047,"Victor Goldmane, High and Mighty",,NF,,M,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY047.png,Guardian,Hero
+HVY047.CF,HVY047,"Victor Goldmane, High and Mighty",,CF,,V,,,,,Guardian,Hero
+HVY047.CF,HVY047,"Victor Goldmane, High and Mighty",,CF,,V,,,,https://dhhim4ltzu1pj.cloudfront.net/media/images/HVY047_M_BACK.width-300.format-webp.webp,Guardian,Hero
 DTD011.NF,DTD011,"Victoria, Archangel of Triumph",,NF,,M,,4,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD011_BACK.png,Light,Angel,Ally
 DTD011.CF,DTD011,"Victoria, Archangel of Triumph",,CF,,V,,4,,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD011_BACK_V2.png,Light,Angel,Ally
+HVY242.NF,HVY242,Vigor,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY242.png,Generic,Token,Aura
 TCC107.NF,TCC107,Vigor,,NF,,T,,,,https://storage.googleapis.com/fabmaster/cardfaces/2023-TCC/EN/TCC107.png,Generic,Token,Aura
+HVY175.NF,HVY175,Vigor Girth,,NF,,C,,,1,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY175.png,Guardian,Warrior,Equipment,Chest
 ARC197.NF.1st,ARC197,Vigor Rush,1,NF,1st,C,1,4,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC197.png,Generic,Action,Attack
 ARC197.RF.1st,ARC197,Vigor Rush,1,RF,1st,C,1,4,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC197.png,Generic,Action,Attack
 ARC197.NF.Unl,ARC197,Vigor Rush,1,NF,Unl,C,1,4,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC197.png,Generic,Action,Attack
@@ -8580,6 +8847,12 @@ ARC199.NF.1st,ARC199,Vigor Rush,3,NF,1st,C,1,2,2,https://storage.googleapis.com/
 ARC199.RF.1st,ARC199,Vigor Rush,3,RF,1st,C,1,2,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-ARC/ARC199.png,Generic,Action,Attack
 ARC199.NF.Unl,ARC199,Vigor Rush,3,NF,Unl,C,1,2,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC199.png,Generic,Action,Attack
 ARC199.RF.Unl,ARC199,Vigor Rush,3,RF,Unl,C,1,2,2,https://storage.googleapis.com/fabmaster/cardfaces/2020-U-ARC/U-ARC199.png,Generic,Action,Attack
+HVY118.NF,HVY118,Vigorous Engagement,1,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY118.png,Warrior,Attack Reaction
+HVY119.NF,HVY119,Vigorous Engagement,2,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY119.png,Warrior,Attack Reaction
+HVY120.NF,HVY120,Vigorous Engagement,3,NF,,C,1,,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY120.png,Warrior,Attack Reaction
+HVY186.NF,HVY186,Vigorous Windup,1,NF,,C,3,7,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY186.png,Guardian,Warrior,Action,Attack
+HVY187.NF,HVY187,Vigorous Windup,2,NF,,C,3,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY187.png,Guardian,Warrior,Action,Attack
+HVY188.NF,HVY188,Vigorous Windup,3,NF,,C,3,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY188.png,Guardian,Warrior,Action,Attack
 DTD178.NF,DTD178,Vile Inquisition,1,NF,,R,2,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD178.png,Shadow,Action
 DTD178.RF,DTD178,Vile Inquisition,1,RF,,R,2,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD178.png,Shadow,Action
 DTD179.NF,DTD179,Vile Inquisition,2,NF,,R,2,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD179.png,Shadow,Action
@@ -8664,12 +8937,32 @@ HER087.CF,HER087,"Vynnset, Iron Maiden",,CF,,P,,,,https://storage.googleapis.com
 WIN024.GF,WIN024,"Vynnset, Iron Maiden",,GF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/WIN024.png,Shadow,Runeblade,Hero
 UPR016.NF,UPR016,Vynserakai,,NF,,R,,6,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR016_A_Back.png,Draconic,Illusionist,Dragon,Ally
 UPR016.CF,UPR016,Vynserakai,,CF,,V,,6,,https://storage.googleapis.com/fabmaster/cardfaces/2022-UPR/UPR016_B_Back.png,Draconic,Illusionist,Dragon,Ally
+HVY169.NF,HVY169,Wage Agility,1,NF,,C,3,7,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY169.png,Brute,Warrior,Action,Attack
+HVY170.NF,HVY170,Wage Agility,2,NF,,C,3,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY170.png,Brute,Warrior,Action,Attack
+HVY171.NF,HVY171,Wage Agility,3,NF,,C,3,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY171.png,Brute,Warrior,Action,Attack
+FAB196.RF,FAB196,Wage Gold,1,RF,,P,3,7,2,,Generic,Action,Attack
+HVY216.NF,HVY216,Wage Gold,1,NF,,R,3,7,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY216.png,Generic,Action,Attack
+FAB197.RF,FAB197,Wage Gold,2,RF,,P,3,6,2,,Generic,Action,Attack
+HVY217.NF,HVY217,Wage Gold,2,NF,,R,3,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY217.png,Generic,Action,Attack
+FAB198.RF,FAB198,Wage Gold,3,RF,,P,3,5,2,,Generic,Action,Attack
+HVY218.NF,HVY218,Wage Gold,3,NF,,R,3,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY218.png,Generic,Action,Attack
+HVY149.NF,HVY149,Wage Might,1,NF,,C,3,7,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY149.png,Brute,Guardian,Action,Attack
+HVY150.NF,HVY150,Wage Might,2,NF,,C,3,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY150.png,Brute,Guardian,Action,Attack
+HVY151.NF,HVY151,Wage Might,3,NF,,C,3,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY151.png,Brute,Guardian,Action,Attack
+HVY189.NF,HVY189,Wage Vigor,1,NF,,C,3,7,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY189.png,Guardian,Warrior,Action,Attack
+HVY190.NF,HVY190,Wage Vigor,2,NF,,C,3,6,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY190.png,Guardian,Warrior,Action,Attack
+HVY191.NF,HVY191,Wage Vigor,3,NF,,C,3,5,2,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY191.png,Guardian,Warrior,Action,Attack
 DTD115.NF,DTD115,Wall Breaker,1,NF,,R,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD115.png,Shadow,Brute,Action,Attack
 DTD115.RF,DTD115,Wall Breaker,1,RF,,R,2,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD115.png,Shadow,Brute,Action,Attack
 DTD116.NF,DTD116,Wall Breaker,2,NF,,R,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD116.png,Shadow,Brute,Action,Attack
 DTD116.RF,DTD116,Wall Breaker,2,RF,,R,2,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD116.png,Shadow,Brute,Action,Attack
 DTD117.NF,DTD117,Wall Breaker,3,NF,,R,2,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD117.png,Shadow,Brute,Action,Attack
 DTD117.RF,DTD117,Wall Breaker,3,RF,,R,2,4,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-DTD/EN/DTD117.png,Shadow,Brute,Action,Attack
+HVY142.NF,HVY142,Wall of Meat and Muscle,1,NF,,R,,,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY142.png,Brute,Guardian,Block
+LGS250.RF,LGS250,Wall of Meat and Muscle,1,RF,,P,,,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/LGS250.width-10000.format-webp.webp,Brute,Guardian,Block
+HVY080.NF,HVY080,Wallop,1,NF,,C,4,7,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY080.png,Guardian,Action,Attack
+HVY081.NF,HVY081,Wallop,2,NF,,C,4,6,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY081.png,Guardian,Action,Attack
+HVY082.NF,HVY082,Wallop,3,NF,,C,4,5,3,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY082.png,Guardian,Action,Attack
 OUT053.NF,OUT053,Wander With Purpose,2,NF,,M,0,2,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT053.width-450.png,Ninja,Action,Attack
 OUT053.RF,OUT053,Wander With Purpose,2,RF,,M,0,2,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT053.width-450.png,Ninja,Action,Attack
 LGS109.CF,LGS109,Waning Moon,,CF,,P,,,,https://storage.googleapis.com/fabmaster/cardfaces/promos/LGS109.png,Wizard,Weapon,Staff,2H
@@ -8859,11 +9152,14 @@ OUT135.NF,OUT135,Widowmaker,3,NF,,C,1,2,3,https://dhhim4ltzu1pj.cloudfront.net/m
 OUT135.RF,OUT135,Widowmaker,3,RF,,C,1,2,3,https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT135.width-450.png,Ranger,Action,Arrow,Attack
 EVR011.NF.1st,EVR011,Wild Ride,1,NF,1st,C,2,6,,https://storage.googleapis.com/fabmaster/media/images/EVR011.width-450.png,Brute,Action,Attack
 EVR011.RF.1st,EVR011,Wild Ride,1,RF,1st,C,2,6,,https://storage.googleapis.com/fabmaster/media/images/EVR011.width-450.png,Brute,Action,Attack
+HVY038.NF,HVY038,Wild Ride,1,NF,,C,2,6,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY038.png,Brute,Action,Attack
 RVD012.NF,RVD012,Wild Ride,1,NF,,C,2,6,,https://storage.googleapis.com/fabmaster/media/images/RVD012.width-450.png,Brute,Action,Attack
 EVR012.NF.1st,EVR012,Wild Ride,2,NF,1st,C,2,5,,https://storage.googleapis.com/fabmaster/media/images/EVR012.width-450.png,Brute,Action,Attack
 EVR012.RF.1st,EVR012,Wild Ride,2,RF,1st,C,2,5,,https://storage.googleapis.com/fabmaster/media/images/EVR012.width-450.png,Brute,Action,Attack
+HVY039.NF,HVY039,Wild Ride,2,NF,,C,2,5,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY039.png,Brute,Action,Attack
 EVR013.NF.1st,EVR013,Wild Ride,3,NF,1st,C,2,4,,https://storage.googleapis.com/fabmaster/media/images/EVR013.width-450.png,Brute,Action,Attack
 EVR013.RF.1st,EVR013,Wild Ride,3,RF,1st,C,2,4,,https://storage.googleapis.com/fabmaster/media/images/EVR013.width-450.png,Brute,Action,Attack
+HVY040.NF,HVY040,Wild Ride,3,NF,,C,2,4,,https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY040.png,Brute,Action,Attack
 EVR040.NF.1st,EVR040,Winds of Eternity,3,NF,1st,M,0,2,3,https://storage.googleapis.com/fabmaster/media/images/EVR040.width-450.png,Ninja,Action,Attack
 EVR040.RF.1st,EVR040,Winds of Eternity,3,RF,1st,M,0,2,3,https://storage.googleapis.com/fabmaster/media/images/EVR040.width-450.png,Ninja,Action,Attack
 EVR040.RF.1st,EVR040,Winds of Eternity,3,RF,1st,M,0,2,3,https://storage.googleapis.com/fabmaster/cardfaces/2022-EVR/EVR040-RF.png,Ninja,Action,Attack
